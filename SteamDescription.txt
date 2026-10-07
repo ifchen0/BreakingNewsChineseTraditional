@@ -1,0 +1,26 @@
+Traditional Chinese (繁體中文) translation for [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3811432717]Breaking News[/url] by Vel1de.
+
+為 Vel1de 的 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3811432717]Breaking News[/url] 提供繁體中文翻譯。
+
+[h2]What is translated[/h2][list]
+[*]All event letters and choices (387 keys)
+[*]Mod settings and the Breaking News tab, including active effect names and descriptions
+[*]Defs: event names, game conditions (superheat, starfall, smokeleaf fog, total darkness, mechanite swarm), earthquake hediff, thoughts, black market trader
+[/list]
+Terms follow the vanilla Traditional Chinese translation (通訊台, 運輸艙, 星艦殘骸, 機械族, 遠古戰士, 路西法強化劑...).
+
+[h2]翻譯範圍[/h2][list]
+[*]所有事件信件與選項（387 條）
+[*]模組設定與「突發新聞」分頁，包含作用中效果的名稱與說明
+[*]Def：事件名稱、遊戲狀態（超級高溫、流星雨、菸葉煙霧、完全黑暗、機械細胞群）、地震狀態、心情、黑市商人
+[/list]
+用詞依照原版遊戲的繁體中文翻譯。
+
+[h2]Notes[/h2][list]
+[*]Load after Breaking News.
+[*]Safe to add to or remove from an existing save.
+[*]One message in the event list ([i]Event can't fire right now.[/i]) is hardcoded in the original mod and stays in English.
+[*]Breaking News adds new events often. Text from events added after this translation shows in English until the translation is updated.
+[/list]
+[hr][/hr]
+This translation was made with the help of AI tools (Claude Code). Translation files are in the Languages folder for review.

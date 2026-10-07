@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Breaking News - Traditional Chinese</name>
+  <author>ifchen0</author>
+  <packageId>ifchen0.breakingnews.chinesetraditional</packageId>
+  <supportedVersions><li>1.6</li></supportedVersions>
+  <description>Traditional Chinese (繁體中文) translation for Breaking News by Vel1de.
+
+Translates all event letters, settings, the Breaking News tab and the related defs (game conditions, thoughts, hediff, trader). Terms follow the vanilla Traditional Chinese translation.
+
+Load after Breaking News. Safe to add to or remove from an existing save. One message in the event list is hardcoded in the original mod and stays in English.</description>
+  <modDependencies>
+    <li><packageId>vel1de.breakingnews</packageId><displayName>Breaking News</displayName><steamWorkshopUrl>steam://url/CommunityFilePage/3811432717</steamWorkshopUrl></li>
+  </modDependencies>
+  <loadAfter>
+    <li>vel1de.breakingnews</li>
+  </loadAfter>
+</ModMetaData>
