@@ -22,5 +22,6 @@ Terms follow the vanilla Traditional Chinese translation (通訊台, 運輸艙, 
 [*]One message in the event list ([i]Event can't fire right now.[/i]) is hardcoded in the original mod and stays in English.
 [*]Breaking News adds new events often. Text from events added after this translation shows in English until the translation is updated.
 [/list]
+I made this because I wanted to play Breaking News and no Traditional Chinese translation existed yet. If anyone would like to take over the translation, you are welcome to.
 [hr][/hr]
 This translation was made with the help of AI tools (Claude Code). Translation files are included in the Languages folder and on [url=https://github.com/ifchen0/BreakingNewsChineseTraditional]GitHub[/url] for review.
