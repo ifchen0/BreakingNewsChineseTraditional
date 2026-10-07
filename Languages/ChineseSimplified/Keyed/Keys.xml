@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<BN_SettingsCategory>突发新闻</BN_SettingsCategory>
+	<BN_Settings_Interval>事件间隔天数：{0} – {1}</BN_Settings_Interval>
+	<BN_Settings_Events>启用的事件：</BN_Settings_Events>
+
+	<BN_Letter_Label>突发新闻！！！</BN_Letter_Label>
+
+	<BN_Assassination_Name>派系领袖遇刺</BN_Assassination_Name>
+	<BN_Assassination_Intro>{FACTION_name}的首都举行公开演说时，有人企图刺杀领袖！</BN_Assassination_Intro>
+	<BN_Assassination_Survived>不知是福是祸，派系领袖幸存了下来。</BN_Assassination_Survived>
+	<BN_Assassination_Dead>不知是福是祸，刺杀成功了。{LEADER_nameFull}已经身亡。</BN_Assassination_Dead>
+
+	<BN_FactoryShelling_Name>远古工厂遭砲击</BN_FactoryShelling_Name>
+	<BN_FactoryShelling_Intro>交战派系之间的砲战波及了一座远古工厂。</BN_FactoryShelling_Intro>
+	<BN_FactoryShelling_Shipyard>这座工厂原来是一处仍能部分运作的造船厂，底下还有庞大的地下隧道网。许多定居点的领袖回报，有飞船残骸坠落在他们的领地上。</BN_FactoryShelling_Shipyard>
+	<BN_FactoryShelling_Ancients>这座工厂原来是一处废弃的军事前哨。由于这次“攻击”，低温休眠舱里的古代士兵接获命令，要消灭沿途所有生命。已有许多定居点遭到新组成的古代士兵部队袭击。</BN_FactoryShelling_Ancients>
+	<BN_FactoryShelling_Mechs>这座工厂原来是一座伪装的机械集群。所幸两个交战中的派系“联手”对这座新发现的军团发动了一面倒的攻击。不过，这一带仍可能遇到零星的野生机械族。</BN_FactoryShelling_Mechs>
+
+	<BN_Arrival_Ancients_Label>古代士兵</BN_Arrival_Ancients_Label>
+	<BN_Arrival_Ancients_Text>一支来自废墟工厂的古代士兵部队抵达了你的殖民地，正在发动攻击。</BN_Arrival_Ancients_Text>
+	<BN_Arrival_Mechs_Label>野生机械族</BN_Arrival_Mechs_Label>
+	<BN_Arrival_Mechs_Text>从被摧毁的机械集群中幸存的机械族抵达了你的殖民地，正在发动攻击。</BN_Arrival_Mechs_Text>
+
+	<BN_LeaderOppression_Name>派系领袖的高压统治</BN_LeaderOppression_Name>
+	<BN_LeaderOppression_Intro>由于{FACTION_name}领袖的高压统治，许多支持者离弃了他们。</BN_LeaderOppression_Intro>
+	<BN_LeaderOppression_Independence>结果，许多定居点决定降下旧旗，宣布独立。</BN_LeaderOppression_Independence>
+	<BN_LeaderOppression_Exodus>派系内还有许多成员决定跟随那些坚定的支持者离开。他们目前正忙着创建自己的定居点，或投靠其他定居点。</BN_LeaderOppression_Exodus>
+	<BN_LeaderOppression_Loyalists>不过，空出来的位置很快就被来自不知名定居点的效忠者填补了。</BN_LeaderOppression_Loyalists>
+
+	<BN_LeaderOppression_ListRemoved>以下定居点已从世界地图上消失：{0}。</BN_LeaderOppression_ListRemoved>
+	<BN_LeaderOppression_ListCreated>世界地图上出现了新的定居点：{0}。</BN_LeaderOppression_ListCreated>
+
+	<BN_CrimeWave_Name>犯罪浪潮</BN_CrimeWave_Name>
+	<BN_CrimeWave_Intro>全球各地都出现了一批新的犯罪份子。</BN_CrimeWave_Intro>
+	<BN_CrimeWave_Dangerous>这些新的帮派与犯罪集团显然受到最大的海贼派系资助。接下来一段时间，在路上旅行会危险许多。</BN_CrimeWave_Dangerous>
+	<BN_CrimeWave_Safe>强大派系的道路巡逻队迅速采取了行动。接下来一段时间，道路变得比较安全了。</BN_CrimeWave_Safe>
+
+	<BN_TradeAlliance_Name>新贸易同盟</BN_TradeAlliance_Name>
+	<BN_TradeAlliance_Intro>在几位强大派系人物的高明外交手腕下，一个新的贸易同盟成立了。</BN_TradeAlliance_Intro>
+	<BN_TradeAlliance_Open>所幸慷慨的成员们同意不只在彼此之间交易。如今就连最小的定居点也有机会成为贸易枢纽。</BN_TradeAlliance_Open>
+	<BN_TradeAlliance_Closed>不过，受限于星球局势，同盟成员们约定只在彼此之间交易。</BN_TradeAlliance_Closed>
+	<BN_TradeAlliance_Monopoly>遗憾的是，这个贸易同盟显然选择追求私利，正走向垄断。小定居点纷纷回报，以往由商队运来的物资开始短缺。</BN_TradeAlliance_Monopoly>
+
+	<BN_FactionTalks_Name>派系谈判</BN_FactionTalks_Name>
+	<BN_FactionTalks_Intro>在近期的一场事件后，{FACTION1_name}与{FACTION2_name}展开了谈判。</BN_FactionTalks_Intro>
+	<BN_FactionTalks_Agreement>外交官们成功达成了必要的协议。两个派系的关系更加稳固了。</BN_FactionTalks_Agreement>
+	<BN_FactionTalks_Shootout>谈判最后演变成枪战，双方领袖都中弹了。{LEADER1}与{LEADER2}已经身亡。</BN_FactionTalks_Shootout>
+	<BN_FactionTalks_Nothing>谈判无疾而终。两个派系都坚持立场。</BN_FactionTalks_Nothing>
+
+	<BN_UndergroundPheromone_Name>地下实验室的费洛蒙</BN_UndergroundPheromone_Name>
+	<BN_UndergroundPheromone_Intro>山中洞穴某处一间不明实验室合成出一种特殊的费洛蒙，唤醒了许多正在冬眠的地底生物。</BN_UndergroundPheromone_Intro>
+	<BN_UndergroundPheromone_Harmless>所幸地底生物的苏醒并不那么“顺利”。牠们沉睡并试图向上钻出的许多隧道，碰巧不是被火山熔岩淹没，就是让虫子直接钻进满是沉睡古代士兵或机械族的地下设施正中央。</BN_UndergroundPheromone_Harmless>
+	<BN_UndergroundPheromone_Awake>许多地下定居点已经失去联系。</BN_UndergroundPheromone_Awake>
+
+	<BN_EmpireSpeech_Name>帝国领袖的声明</BN_EmpireSpeech_Name>
+	<BN_EmpireSpeech_Intro>帝国领袖{LEADER_nameFull}在一场全球广播中发表了声明。</BN_EmpireSpeech_Intro>
+	<BN_EmpireSpeech_Ignored>不过在边缘地带，根本没人在乎。</BN_EmpireSpeech_Ignored>
+	<BN_EmpireSpeech_Warning>领袖警告所有派系：全球超级暖化将让这颗星球面临生态浩劫。</BN_EmpireSpeech_Warning>
+	<BN_EmpireSpeech_Peace>领袖呼吁所有派系暂时停战，共同对抗机械族的积极进犯。出乎意料的是，各派系都响应了这项呼吁。</BN_EmpireSpeech_Peace>
+	<BN_Superheat_Start>预言中的超级暖化开始了。全球气温飙升，天空变成一片血红。快找地方躲避并降温。</BN_Superheat_Start>
+
+	<BN_Charity_Name>名人慈善活动</BN_Charity_Name>
+	<BN_Charity_Intro>一位来自乌托邦世界、富可敌国的媒体名人，决定在边缘世界之间举办慈善活动。</BN_Charity_Intro>
+	<BN_Charity_Declined>遗憾的是，你所在星球的强大派系不太喜欢这项活动，于是载运人道物资的飞船在接近星系时就被击落了。或者照那些派系大使的说法，是你们的星球根本没被注意到。</BN_Charity_Declined>
+	<BN_Charity_Gift>你们的星球很幸运地被列入了这项活动！</BN_Charity_Gift>
+	<BN_Charity_Massacre>非常“遗憾”的是，在某些乌托邦世界里，“慈善”也可以是用死亡来解脱痛苦。你们星球的居民发现时已经太迟了。</BN_Charity_Massacre>
+	<BN_Charity_GiftList>以运输舱送达：{0}。</BN_Charity_GiftList>
+
+	<BN_DrugCartel_Name>贩毒集团扩张</BN_DrugCartel_Name>
+	<BN_DrugCartel_Intro>一个跨星球的贩毒集团决定扩大势力范围，在被遗忘的世界设立分部。</BN_DrugCartel_Intro>
+	<BN_DrugCartel_PriceDrop>“本地”供应商的毒品价格大幅下跌。</BN_DrugCartel_PriceDrop>
+	<BN_DrugCartel_Blockade>你们星球上的凶狠帮派不支持竞争对手的计划，带着防空武器和临时拼凑的飞船布下了轨道防线。接下来几天预计会有残骸和货舱坠落。</BN_DrugCartel_Blockade>
+	<BN_DrugCartel_Nothing>不知是福是祸，你们的星球位在银河系极其偏远的角落，连他们都决定不来了。</BN_DrugCartel_Nothing>
+
+	<BN_TvPremiere_Name>剧集首播</BN_TvPremiere_Name>
+	<BN_TvPremiere_Intro>全银河最热门的剧集之一《银河熊孩子》宣布新一季即将首播！</BN_TvPremiere_Intro>
+	<BN_TvPremiere_Sanctions>非常遗憾，你们的星球不知为何遭到制裁，无法收看这部剧集……</BN_TvPremiere_Sanctions>
+	<BN_TvPremiere_Watch>你的殖民者能在任何一台电视上亲眼收看，一定会兴奋不已！</BN_TvPremiere_Watch>
+
+	<BN_DrugCartel_ChunkMsg>某处有飞船残骸正在坠落！</BN_DrugCartel_ChunkMsg>
+	<BN_DrugCartel_PodMsg>某处有运输舱正在坠落。内容物：{0}。</BN_DrugCartel_PodMsg>
+
+	<BN_SolarPulses_Name>太阳磁脉冲</BN_SolarPulses_Name>
+	<BN_SolarPulses_Intro>你们星系的太阳开始发出奇怪的异常磁脉冲。</BN_SolarPulses_Intro>
+	<BN_SolarPulses_Benign>不知为何，这些脉冲竟然是有益的。发电量增加了 25%！</BN_SolarPulses_Benign>
+	<BN_SolarPulses_Harmful>虽然比不上太阳闪焰，但你的电子设备还是受到了影响。发电量减少了 25%。</BN_SolarPulses_Harmful>
+
+	<BN_JokeBats_Name>【玩笑】蝙蝠病原体</BN_JokeBats_Name>
+	<BN_JokeBats_Text>！！！突发新闻！！！
+
+一个以蝙蝠为主食的小定居点发现了一种新的致命病原体。总部位于{FACTION_name}领地的一家知名制药公司接手了疫苗研发。初步检验后发现，一发颗粒迫击砲弹就是最佳的接种方式。疾病被成功击败了。那个定居点也是。</BN_JokeBats_Text>
+
+	<BN_JokeOrbital_Name>【玩笑】边缘世界题材的热门游戏</BN_JokeOrbital_Name>
+	<BN_JokeOrbital_Text>！！！突发新闻！！！
+
+一款最近推出、描写边缘世界生活的游戏在乌托邦世界大受欢迎。如今几乎整个银河系都能得知我们星球上横行的暴力、残酷与不公。在一阵短暂的爱国热潮，以及同样短暂的“终于要让大家过上好日子”的念头之后，有人对其中一座最大的定居点发动了大规模轨道打击。原因不明，但事后大家又回去做他们那些残暴的勾当了。</BN_JokeOrbital_Text>
+
+	<BN_MegacorpWar_Name>巨型企业战争</BN_MegacorpWar_Name>
+	<BN_MegacorpWar_Text>银河系又爆发了一场巨型企业战争。遥远世界的居民为了逃避征兵不惜采取极端手段，大批逃往边缘世界。</BN_MegacorpWar_Text>
+
+	<BN_LuciferiumShortage_Name>魔鬼素短缺</BN_LuciferiumShortage_Name>
+	<BN_LuciferiumShortage_Text>由于银河系对各星球贩毒集团的大清剿，边缘世界正面临严重的魔鬼素短缺。各定居点回报，走投无路的袭击者连最和平的定居点都不放过，只为了找到“一剂”。</BN_LuciferiumShortage_Text>
+
+	<BN_DrugOversupply_Name>毒品供过于求</BN_DrugOversupply_Name>
+	<BN_DrugOversupply_Text>全球市场上的“{0}”供过于求，价格因此大幅下降。</BN_DrugOversupply_Text>
+
+	<BN_UI_Header>近期新闻的作用中效果</BN_UI_Header>
+	<BN_UI_None>目前没有作用中的效果。</BN_UI_None>
+	<BN_UI_Period>从 {0} 到 {1}</BN_UI_Period>
+	<BN_UI_Remaining>剩余：{0}</BN_UI_Remaining>
+
+	<BN_Active_Travelers>旅人涌入</BN_Active_Travelers>
+	<BN_Active_Travelers_Desc>旅人、访客与流浪者更常出现。</BN_Active_Travelers_Desc>
+	<BN_Active_AmbushUp>危险道路</BN_Active_AmbushUp>
+	<BN_Active_AmbushUp_Desc>远行队遭伏击的几率加倍。</BN_Active_AmbushUp_Desc>
+	<BN_Active_AmbushDown>道路有人巡逻</BN_Active_AmbushDown>
+	<BN_Active_AmbushDown_Desc>远行队遭伏击的几率减半。</BN_Active_AmbushDown_Desc>
+	<BN_Active_TradeUp>开放贸易</BN_Active_TradeUp>
+	<BN_Active_TradeUp_Desc>商队更常到访。</BN_Active_TradeUp_Desc>
+	<BN_Active_TradeDown>贸易垄断</BN_Active_TradeDown>
+	<BN_Active_TradeDown_Desc>商队到访频率减半。</BN_Active_TradeDown_Desc>
+	<BN_Active_Infestation>地底苏醒</BN_Active_Infestation>
+	<BN_Active_Infestation_Desc>虫灾发生几率变为三倍。</BN_Active_Infestation_Desc>
+	<BN_Active_MechRaid>机械族进犯</BN_Active_MechRaid>
+	<BN_Active_MechRaid_Desc>下一次袭击可能是机械族袭击。</BN_Active_MechRaid_Desc>
+	<BN_Active_DrugPrice>廉价毒品</BN_Active_DrugPrice>
+	<BN_Active_DrugPrice_Desc>所有毒品价格减半。</BN_Active_DrugPrice_Desc>
+	<BN_Active_DrugSale>供过于求：{0}</BN_Active_DrugSale>
+	<BN_Active_DrugSale_Desc>这种毒品的价格降为三分之一。</BN_Active_DrugSale_Desc>
+	<BN_Active_TvPremiere>剧集首播</BN_Active_TvPremiere>
+	<BN_Active_TvPremiere_Desc>看电视可获得 +5 心情。</BN_Active_TvPremiere_Desc>
+	<BN_Active_PowerUp>发电量激增</BN_Active_PowerUp>
+	<BN_Active_PowerUp_Desc>所有发电机的发电量增加 25%。</BN_Active_PowerUp_Desc>
+	<BN_Active_PowerDown>发电量下降</BN_Active_PowerDown>
+	<BN_Active_PowerDown_Desc>所有发电机的发电量减少 25%。</BN_Active_PowerDown_Desc>
+	<BN_Active_Refugee>难民潮</BN_Active_Refugee>
+	<BN_Active_Refugee_Desc>流浪者加入与运输舱坠落的几率加倍。</BN_Active_Refugee_Desc>
+	<BN_Active_RaidHeat>魔鬼素戒断</BN_Active_RaidHeat>
+	<BN_Active_RaidHeat_Desc>袭击几率加倍，而且袭击者处于戒断状态。</BN_Active_RaidHeat_Desc>
+	<BN_Active_Superheat>全球超级高温</BN_Active_Superheat>
+	<BN_Active_Superheat_Desc>星球热得发烫，白天会起火。</BN_Active_Superheat_Desc>
+	<BN_Active_SuperheatPending>超级高温即将来临</BN_Active_SuperheatPending>
+	<BN_Active_SuperheatPending_Desc>倒数结束时，生态浩劫就会开始。</BN_Active_SuperheatPending_Desc>
+	<BN_Active_DrugBlockade>贩毒集团封锁</BN_Active_DrugBlockade>
+	<BN_Active_DrugBlockade_Desc>天上不时会掉下残骸和毒品货舱。</BN_Active_DrugBlockade_Desc>
+
+	<BN_GravityFailure_Name>重力引擎故障</BN_GravityFailure_Name>
+	<BN_GravityFailure_Intro>星球上发生了大规模的重力引擎故障，许多运输穿梭机和运输舱因此坠毁。</BN_GravityFailure_Intro>
+	<BN_GravityFailure_Pod>一个坠落的运输舱掉在你的领地上，里面有一名幸存者。</BN_GravityFailure_Pod>
+	<BN_GravityFailure_Shuttle>一架故障的穿梭机迫降在你的领地上。</BN_GravityFailure_Shuttle>
+	<BN_GravityFailure_Nothing>所幸没有东西掉在你的领地上。</BN_GravityFailure_Nothing>
+	<BN_GravityFailure_PodMsg>某处有运输舱正在坠落！</BN_GravityFailure_PodMsg>
+	<BN_GravityFailure_ShuttleMsg>一架故障的穿梭机正坠向你的领地！</BN_GravityFailure_ShuttleMsg>
+
+	<BN_CorpInfluence_Name>银河企业的影响力</BN_CorpInfluence_Name>
+	<BN_CorpInfluence_Intro>银河企业在这个世界的影响力扩大了。</BN_CorpInfluence_Intro>
+	<BN_CorpInfluence_Down>以下物资价格大幅下跌：{0}。</BN_CorpInfluence_Down>
+	<BN_CorpInfluence_Up>以下物资价格大幅上涨：{0}。</BN_CorpInfluence_Up>
+	<BN_CorpInfluence_Nothing>不过，你们的边缘世界完全没受到任何影响……</BN_CorpInfluence_Nothing>
+
+	<BN_WeaponDisarm_Name>平民解除武装</BN_WeaponDisarm_Name>
+	<BN_WeaponDisarm_Text>在各星球接连发生大规模恐怖攻击与暴动后，银河社群决定暂时解除旗下各星球平民的武装。黑市武器的出口价格大幅上涨。</BN_WeaponDisarm_Text>
+
+	<BN_Active_ResourceDown>廉价物资</BN_Active_ResourceDown>
+	<BN_Active_ResourceDown_Desc>三种物资的价格降为三分之一（详见信件）。</BN_Active_ResourceDown_Desc>
+	<BN_Active_ResourceUp>昂贵物资</BN_Active_ResourceUp>
+	<BN_Active_ResourceUp_Desc>三种物资的价格变为三倍（详见信件）。</BN_Active_ResourceUp_Desc>
+	<BN_Active_WeaponPrice>昂贵武器</BN_Active_WeaponPrice>
+	<BN_Active_WeaponPrice_Desc>所有武器的价格变为三倍。</BN_Active_WeaponPrice_Desc>
+
+	<BN_ObsoleteEquipment_Name>淘汰装备处理</BN_ObsoleteEquipment_Name>
+	<BN_Obsolete_Intro>强大的派系{FACTION_name}决定处理一批淘汰装备。</BN_Obsolete_Intro>
+	<BN_Obsolete_Shelling>不过，“淘汰”的装备里也包含快过期的迫击砲弹。一轮迫击砲轰炸落在了你的领地上。</BN_Obsolete_Shelling>
+	<BN_Obsolete_Pods>许多定居点回报有装着各种货物的运输舱落地。装着老旧装备的运输舱降落在你的领地上。</BN_Obsolete_Pods>
+
+	<BN_CommsGlitch_Name>突发新闻（信号干扰）</BN_CommsGlitch_Name>
+	<BN_CommsGlitch_Text>！！！突发新闻！！！ 未#%回报!&amp;……</BN_CommsGlitch_Text>
+
+	<BN_Active_CommsDown>通讯台故障</BN_Active_CommsDown>
+	<BN_Active_CommsDown_Desc>空中信号受到干扰：无法联系任何派系。</BN_Active_CommsDown_Desc>
+
+	<BN_AnomalyBreach_Name>收容失效</BN_AnomalyBreach_Name>
+	<BN_AnomalyBreach_Text>一座研究设施的收容条件遭到破坏。虽然颗粒砲弹迅速送抵现场，各地定居点仍开始回报遭到异常实体攻击。</BN_AnomalyBreach_Text>
+
+	<BN_AlliedGifts_Name>盟友的外交任务</BN_AlliedGifts_Name>
+	<BN_AlliedGifts_Text>{FACTION_name}的领袖决定执行一项外交任务，改善与邻近势力的关系。盟友们都收到了以运输舱送来的几份礼物。</BN_AlliedGifts_Text>
+	<BN_AlliedGifts_PodMsg>一个装着外交礼物的运输舱正在坠落！</BN_AlliedGifts_PodMsg>
+
+	<BN_MeteorSwarm_Name>流星群</BN_MeteorSwarm_Name>
+	<BN_MeteorSwarm_Intro>天文学家回报有一群流星正在接近。各定居点待在户外时应多加小心。</BN_MeteorSwarm_Intro>
+	<BN_MeteorSwarm_Starfall>不过根据计算，流星群大部分会在大气层中烧毁，化为一场美丽的流星雨。</BN_MeteorSwarm_Starfall>
+	<BN_MeteorSwarm_Meteors>部分流星会落到星球表面。</BN_MeteorSwarm_Meteors>
+	<BN_MeteorSwarm_Nothing>所幸流星群与星球擦身而过。</BN_MeteorSwarm_Nothing>
+	<BN_MeteorSwarm_StarfallStart>星球上空开始下起流星雨！待在户外的人都在欣赏天空。</BN_MeteorSwarm_StarfallStart>
+	<BN_MeteorSwarm_MeteorsStart>流星群抵达了星球。陨石正落在你领地的各个角落！</BN_MeteorSwarm_MeteorsStart>
+	<BN_Meteor_Msg>某处有陨石正在坠落！</BN_Meteor_Msg>
+
+	<BN_Active_AnomalyRaid>异常威胁</BN_Active_AnomalyRaid>
+	<BN_Active_AnomalyRaid_Desc>下一次袭击可能变成异常实体的攻击。</BN_Active_AnomalyRaid_Desc>
+	<BN_Active_StarfallPending>流星群接近中</BN_Active_StarfallPending>
+	<BN_Active_StarfallPending_Desc>倒数结束时，流星群就会抵达星球。</BN_Active_StarfallPending_Desc>
+	<BN_Active_MeteorPending>流星群接近中</BN_Active_MeteorPending>
+	<BN_Active_MeteorPending_Desc>倒数结束时，流星群就会抵达星球。</BN_Active_MeteorPending_Desc>
+	<BN_Active_Starfall>流星雨</BN_Active_Starfall>
+	<BN_Active_Starfall_Desc>待在户外的殖民者欣赏天空，获得 +5 心情。</BN_Active_Starfall_Desc>
+	<BN_Active_MeteorShower>陨石雨</BN_Active_MeteorShower>
+	<BN_Active_MeteorShower_Desc>陨石随机落在你领地的各处。</BN_Active_MeteorShower_Desc>
+
+	<BN_NatureRitual_Name>远古部落的仪式</BN_NatureRitual_Name>
+	<BN_NatureRitual_Intro>与自然紧密相连的远古部落举行了一场奇怪的仪式，与一个活跃的超凡科技有关。</BN_NatureRitual_Intro>
+	<BN_NatureRitual_Growth>令人惊讶的是，仪式真的起了作用。许多定居点如今发现自己身处茂密的森林之中。</BN_NatureRitual_Growth>
+	<BN_NatureRitual_Nothing>不过，所幸之后什么事也没发生。</BN_NatureRitual_Nothing>
+
+	<BN_RodentSwarm_Name>鼠害</BN_RodentSwarm_Name>
+	<BN_RodentSwarm_Intro>星球上爆发了鼠害。显然有人打开了一座远古设施，里面的环境让牠们能不断繁殖。</BN_RodentSwarm_Intro>
+	<BN_RodentSwarm_Aggressive>各定居点回报，跑出来的个体极具攻击性。</BN_RodentSwarm_Aggressive>
+	<BN_RodentSwarm_Calm>各定居点回报，跑出来的个体没有太大威胁。</BN_RodentSwarm_Calm>
+	<BN_Rodents_ArriveHostile>一群啮齿动物（{0}）抵达了你的殖民地，正在发动攻击！</BN_Rodents_ArriveHostile>
+	<BN_Rodents_ArriveCalm>一群啮齿动物（{0}）闯进了你的领地。牠们没有攻击性。</BN_Rodents_ArriveCalm>
+
+	<BN_SpaceBattle_Name>飞船战斗</BN_SpaceBattle_Name>
+	<BN_SpaceBattle_Intro>你们星球所在的星系里，几艘看似友好的飞船突然打了起来。</BN_SpaceBattle_Intro>
+	<BN_SpaceBattle_Chunks>受损飞船的残骸散落在轨道上，接下来几天可能会坠落到星球上。</BN_SpaceBattle_Chunks>
+	<BN_SpaceBattle_Pods>受损飞船的船员正搭乘逃生舱紧急弹射。接下来几天可能会有逃生舱落在你的领地上。</BN_SpaceBattle_Pods>
+	<BN_SpaceBattle_Nothing>所幸战斗结束得跟开始时一样突然。</BN_SpaceBattle_Nothing>
+
+	<BN_Active_RitualGrowth>远古部落的仪式</BN_Active_RitualGrowth>
+	<BN_Active_RitualGrowth_Desc>植物以惊人的速度生长，到处都冒出新的植物。</BN_Active_RitualGrowth_Desc>
+	<BN_Active_RodentsPending>啮齿动物接近中</BN_Active_RodentsPending>
+	<BN_Active_RodentsPending_Desc>倒数结束时，一群啮齿动物就会抵达你的领地。</BN_Active_RodentsPending_Desc>
+	<BN_Active_ChunkBoost>轨道残骸</BN_Active_ChunkBoost>
+	<BN_Active_ChunkBoost_Desc>飞船残骸坠落的几率变为四倍。</BN_Active_ChunkBoost_Desc>
+	<BN_Active_PodBoost>逃生舱</BN_Active_PodBoost>
+	<BN_Active_PodBoost_Desc>逃生舱坠落的几率变为四倍。</BN_Active_PodBoost_Desc>
+
+	<BN_NaturalSelection_Name>天择</BN_NaturalSelection_Name>
+	<BN_NaturalSelection_Text>这颗星球经历了一轮天择。基于种种原因，以下定居点已从世界地图上消失：{0}。</BN_NaturalSelection_Text>
+
+	<BN_MissileBattle_Name>非法飞弹攻击</BN_MissileBattle_Name>
+	<BN_MissileBattle_Intro>{FACTION1_name}与{FACTION2_name}之间又爆发了一场战斗，双方动用了不太合法的飞弹。</BN_MissileBattle_Intro>
+	<BN_MissileBattle_Toxic>各定居点回报有一片毒烟云正在接近，很快就会笼罩整颗星球。</BN_MissileBattle_Toxic>
+	<BN_MissileBattle_Dust>大规模轰炸扬起了一片异常的尘云，已经遮蔽了部分定居点的天空。</BN_MissileBattle_Dust>
+	<BN_MissileBattle_ToxicStart>毒云抵达了你的领地。户外所有活物都遭受中毒之苦。</BN_MissileBattle_ToxicStart>
+	<BN_MissileBattle_DustStart>尘云抵达了你的领地，遮蔽了一半的阳光。</BN_MissileBattle_DustStart>
+
+	<BN_ForestFire_Name>森林大火</BN_ForestFire_Name>
+	<BN_ForestFire_Text>一场大规模森林大火正在全球肆虐，已有许多定居点受害。</BN_ForestFire_Text>
+	<BN_ForestFire_Msg>地图边缘的树木起火了！</BN_ForestFire_Msg>
+
+	<BN_Active_FalloutPending>云层接近中</BN_Active_FalloutPending>
+	<BN_Active_FalloutPending_Desc>倒数结束时，毒云或尘云就会抵达你的领地。</BN_Active_FalloutPending_Desc>
+
+	<BN_DrugFog_Name>大麻烟雾</BN_DrugFog_Name>
+	<BN_DrugFog_Text>犯罪派系{FACTION_name}接到最后通牒：基地里所有的大麻田都必须烧掉。结果数量多到让整颗星球都被毒品烟雾笼罩。</BN_DrugFog_Text>
+	<BN_DrugFog_Start>大麻烟雾抵达了你的领地。在户外没戴防毒面具吸入烟雾的人都会嗨起来。</BN_DrugFog_Start>
+
+	<BN_ChildrenCrusade_Name>儿童十字军</BN_ChildrenCrusade_Name>
+	<BN_Crusade_Text>！！！突发新闻！！！
+
+一名无名的传教士说服了{FACTION1_name}的孩子们，让他们相信自己在这残酷世界中的存在本身就是一项伟大使命。接着他派这些孩子到{FACTION2_name}的定居点去对抗异端。大部分孩子没能抵达目的地。不过，虽然命运令人唏嘘，仍有不少孩子及时醒悟，回到了父母和师长身边。</BN_Crusade_Text>
+
+	<BN_Children_Label>孩子们请求庇护</BN_Children_Label>
+	<BN_Children_Text>一群来自{1}的孩子（{0}人）来到了你的定居点。他们筋疲力尽，请求让他们暂住一段时间。</BN_Children_Text>
+	<BN_Children_Accept>收留孩子们</BN_Children_Accept>
+	<BN_Children_Refuse>拒绝</BN_Children_Refuse>
+	<BN_Children_Postpone>稍后再决定</BN_Children_Postpone>
+	<BN_Children_Refused>你拒绝了孩子们。他们回到了荒野之中。</BN_Children_Refused>
+	<BN_Children_Accepted>孩子们（{0}人）留在了你的定居点。请给他们食物和住处。</BN_Children_Accepted>
+	<BN_Children_Shuttle>孩子们的父母派了一架穿梭机来接他们。有{0}人决定自行离开，其余{1}人正在等待登机。在 2 天内把剩下的孩子全部送上穿梭机，就能获得丰厚的报酬。</BN_Children_Shuttle>
+	<BN_Children_AllLeft>孩子们回到了父母和师长身边。</BN_Children_AllLeft>
+	<BN_Children_ShuttleOk>穿梭机载着所有孩子出发了。他们的父母承诺会在一天内给你报酬。</BN_Children_ShuttleOk>
+	<BN_Children_ShuttleFail>穿梭机没等所有孩子上机就出发了。不会有任何报酬。</BN_Children_ShuttleFail>
+	<BN_Children_Reward>心怀感激的父母空投了一个装着报酬的运输舱。</BN_Children_Reward>
+
+	<BN_Active_DrugFogPending>大麻烟雾接近中</BN_Active_DrugFogPending>
+	<BN_Active_DrugFogPending_Desc>倒数结束时，烟雾就会抵达你的领地。</BN_Active_DrugFogPending_Desc>
+	<BN_Active_DrugFog>大麻烟雾</BN_Active_DrugFog>
+	<BN_Active_DrugFog_Desc>在户外没戴防毒面具就会嗨起来。</BN_Active_DrugFog_Desc>
+	<BN_Active_ChildrenStay>定居点里的孩子们</BN_Active_ChildrenStay>
+	<BN_Active_ChildrenStay_Desc>孩子们很快就会决定要离开，还是等待穿梭机。</BN_Active_ChildrenStay_Desc>
+	<BN_Active_ChildrenShuttle>穿梭机等待孩子们登机</BN_Active_ChildrenShuttle>
+	<BN_Active_ChildrenShuttle_Desc>在倒数结束前把剩下的孩子全部送上穿梭机，即可获得报酬。</BN_Active_ChildrenShuttle_Desc>
+
+	<BN_UndergroundComplexes_Name>地下设施</BN_UndergroundComplexes_Name>
+	<BN_UndergroundComplexes_Intro>不知为何，许多地下设施解除了伪装，从地底升了上来。</BN_UndergroundComplexes_Intro>
+	<BN_UndergroundComplexes_Found>你的定居点附近侦测到几座设施。你的领地周围总共出现了{0}座不明设施。</BN_UndergroundComplexes_Found>
+
+	<BN_TravelerSettlements_Name>旅人营地崛起</BN_TravelerSettlements_Name>
+	<BN_TravelerSettlements_Text>受惠于贸易与外交，许多小型旅人营地发展成了正式的定居点。世界上出现了以下定居点：{0}。</BN_TravelerSettlements_Text>
+
+	<BN_VampireRefugees_Name>假面舞会落幕</BN_VampireRefugees_Name>
+	<BN_VampireRefugees_Intro>假面舞会落幕了。赫血种猎人击溃了一个庞大的吸血鬼社群。不过仍有许多吸血鬼逃了出来，正在寻找新的栖身之所。</BN_VampireRefugees_Intro>
+	<BN_VampireRefugees_Incoming>赫血种社群的残党正朝你的定居点前进。再过一两天，他们就会抵达并请求庇护。</BN_VampireRefugees_Incoming>
+	<BN_VampireRefugees_Title>赫血种请求庇护</BN_VampireRefugees_Title>
+	<BN_VampireRefugees_Text>两名赫血种和几名仆从来到了你的定居点。他们筋疲力尽，请求暂时的庇护。如果你拒绝，他们可能会试图以武力夺取定居点。</BN_VampireRefugees_Text>
+	<BN_VampireRefugees_Accept>收留赫血种</BN_VampireRefugees_Accept>
+	<BN_VampireRefugees_Refuse>拒绝</BN_VampireRefugees_Refuse>
+	<BN_VampireRefugees_Postpone>延后决定</BN_VampireRefugees_Postpone>
+	<BN_VampireRefugees_Accepted>赫血种和他们的仆从加入了你的定居点。他们会派上用场——前提是你养得起他们。</BN_VampireRefugees_Accepted>
+	<BN_VampireRefugees_Attacked>遭到拒绝的赫血种决定以武力夺取你的定居点。准备战斗！</BN_VampireRefugees_Attacked>
+	<BN_VampireRefugees_Left>赫血种接受了你的拒绝，默默离开，消失在荒野中。</BN_VampireRefugees_Left>
+	<BN_Active_VampireRefugeesPending>赫血种接近中</BN_Active_VampireRefugeesPending>
+	<BN_Active_VampireRefugeesPending_Desc>流离失所的吸血鬼正在寻找新家，很快就会抵达。</BN_Active_VampireRefugeesPending_Desc>
+
+	<BN_HemophageHunters_Title>赫血种猎人</BN_HemophageHunters_Title>
+	<BN_HemophageHunters_Text>得知你收留了赫血种的猎人们来到了你的定居点。他们配备枪械，装备精良。准备战斗！</BN_HemophageHunters_Text>
+	<BN_Active_HemophageHuntersIncoming>猎人接近中</BN_Active_HemophageHuntersIncoming>
+	<BN_Active_HemophageHuntersIncoming_Desc>赫血种猎人得知你收留了赫血种，正朝你而来。</BN_Active_HemophageHuntersIncoming_Desc>
+
+	<BN_PlantVirus_Name>不明植物病毒</BN_PlantVirus_Name>
+	<BN_PlantVirus_Intro>一种不明病毒正在全球蔓延，感染特定种类的植物。社群需要一段时间才能找到并发放解药。</BN_PlantVirus_Intro>
+	<BN_PlantVirus_Affected>以下植物如今几乎无法种植：{0}。</BN_PlantVirus_Affected>
+	<BN_Active_PlantVirus>植物病毒</BN_Active_PlantVirus>
+	<BN_Active_PlantVirus_Desc>种在一般土壤中的受感染植物会慢慢枯萎死亡。水栽培不受影响。</BN_Active_PlantVirus_Desc>
+
+	<BN_Settings_Category_Core>原版游戏</BN_Settings_Category_Core>
+	<BN_Settings_DlcToggle>启用需要“{0}”的事件</BN_Settings_DlcToggle>
+	<BN_Settings_DlcMissing>未安装“{0}”扩充，或未在模组清单中启用。此分类的事件无法使用。</BN_Settings_DlcMissing>
+	<BN_Settings_RequiresDlc>需要：{0}</BN_Settings_RequiresDlc>
+
+	<BN_Update_Label>突发新闻：模组更新</BN_Update_Label>
+	<BN_Update_Header>2026/10/03 突发新闻模组已更新。</BN_Update_Header>
+	<BN_Update_Added>添加内容如下：</BN_Update_Added>
+	<BN_Update_1_Dlc>可以启用或停用需要特定 DLC 的事件。</BN_Update_1_Dlc>
+	<BN_Update_Footer>如果不想再收到这则消息，可以在模组设置中关闭。</BN_Update_Footer>
+
+	<BN_Settings_ShowUpdates>显示模组更新消息</BN_Settings_ShowUpdates>
+	<BN_Settings_ShowUpdates_Tip>模组更新后，游戏开始时会收到一封列出更新内容的通知信件。</BN_Settings_ShowUpdates_Tip>
+
+	<BN_TotalDarkness_Name>完全黑暗</BN_TotalDarkness_Name>
+	<BN_TotalDarkness_Text>不知是黑暗吞没了这颗星球，还是所有星星在同一刻决定熄灭。总之，出于某种奇怪的巧合，你们的星球陷入了伸手不见五指的黑暗。既然你们还活着，这多半是某种异常现象或超凡科技搞的鬼。应该很快就会过去……
+
+对吧？……</BN_TotalDarkness_Text>
+	<BN_Darkness_Blocked>伸手不见五指的黑暗……根本找不到路。</BN_Darkness_Blocked>
+	<BN_Active_TotalDarkness>伸手不见五指的黑暗……</BN_Active_TotalDarkness>
+	<BN_Active_TotalDarkness_Desc>根本找不到路。</BN_Active_TotalDarkness_Desc>
+
+	<BN_Comms_Broken>没有反应……真奇怪。</BN_Comms_Broken>
+	<BN_Comms_UseLabel>使用通讯台</BN_Comms_UseLabel>
+
+	<BN_BlackMarketShip_Name>黑市飞船</BN_BlackMarketShip_Name>
+	<BN_BlackMarketShip_Text>一艘专门买卖文明世界禁售商品的太空贸易船进入了你们星球的轨道。它停留期间，你可以用高价把毒品、器官和囚犯卖给它。
+
+请通过通讯台联系这艘飞船。</BN_BlackMarketShip_Text>
+	<BN_Active_BlackMarketShip>黑市飞船</BN_Active_BlackMarketShip>
+	<BN_Active_BlackMarketShip_Desc>位于轨道上：以两倍价格收购毒品、器官和囚犯。</BN_Active_BlackMarketShip_Desc>
+
+	<BN_MechaniteSwarm_Name>纳米机械群</BN_MechaniteSwarm_Name>
+	<BN_MechSwarm_Text>一大群纳米机械突然笼罩了整颗星球。它们通常是小群“苏醒”，在人体内作用一段时间，但这次却形成了一整片云。过了一阵子才弄清楚，它们正在执行一项“修复所有东西”的程序。所有放在户外、受损的物品和建筑都会被强制修复。不知是福是祸，人体也在这项程序的范围内。</BN_MechSwarm_Text>
+	<BN_MechSwarm_End>纳米机械群散去了。修复停止了，病症也消退了。</BN_MechSwarm_End>
+	<BN_Active_MechaniteSwarm>纳米机械群</BN_Active_MechaniteSwarm>
+	<BN_Active_MechaniteSwarm_Desc>户外的物品正在被修复，所有生物都感染了纳米机械。</BN_Active_MechaniteSwarm_Desc>
+
+	<BN_Earthquake_Name>地震</BN_Earthquake_Name>
+	<BN_Earthquake_Text>星球上突然发生了一场强烈地震。许多建筑受损，人们都站不稳。</BN_Earthquake_Text>
+	<BN_Earthquake_End>地震平息了。大家都重新站了起来。</BN_Earthquake_End>
+
+	<BN_CasinoShip_Name>赌场飞船</BN_CasinoShip_Name>
+	<BN_CasinoShip_Text>星球轨道上侦测到一艘不明太空船。稍微观察它的外观后，从那些数不清的闪亮招牌就能看出，这是一艘巡回赌场。短暂联系后得知，他们无意让边缘世界的乌合之众登船，但还是带着一个提议来到这里：任何派系，包括你们，都可以向他们购买惊喜运输舱。最多可以买 3 个，但你得明白，里面几乎什么都可能出现。它可能让你的定居点发大财，也可能要了你的命。
+
+要购买惊喜运输舱，请使用通讯台。</BN_CasinoShip_Text>
+	<BN_Casino_ShipName>巡回赌场</BN_Casino_ShipName>
+	<BN_Casino_Prompt>决定要买一个运输舱了吗？希望你明白其中的风险。</BN_Casino_Prompt>
+	<BN_Casino_Buy>购买运输舱。（{0} 白银）</BN_Casino_Buy>
+	<BN_Casino_Cancel>结束通信。</BN_Casino_Cancel>
+	<BN_Casino_LimitReached>你已经买到运输舱的数量上限了。</BN_Casino_LimitReached>
+	<BN_Casino_NoSilver>交易信标附近的白银不足（需要 {0}）。</BN_Casino_NoSilver>
+
+	<BN_Casino_O1>买下运输舱后，你在定居点上空看到了它。奇怪的是，它太早开始减速了。过了一会儿，运输舱直接在半空中爆炸，在你的定居点上空释放出某种云雾。</BN_Casino_O1>
+	<BN_Casino_PlagueDone>后来你才发现，你的殖民者在那之后染上了某种东西：{0}。</BN_Casino_PlagueDone>
+	<BN_Casino_O2>看来你运气不错。降落的运输舱打开后露出了货物：{0}。</BN_Casino_O2>
+	<BN_Casino_O3>天晓得你要拿这批货怎么办，但你今晚显然会很“开心”。你的“奖品”是{0}。</BN_Casino_O3>
+	<BN_Casino_O4>有人特别确保这个运输舱轻轻落地。你的奖品是一只已驯服的小动物：{0}。</BN_Casino_O4>
+	<BN_Casino_O5>运输舱上满是抓痕。有个讨厌的东西降落在你的殖民地附近，也就是{0}。</BN_Casino_O5>
+	<BN_Casino_O6>知识就是力量！你的“奖品”是{0}。</BN_Casino_O6>
+	<BN_Casino_O7>我们有座城市要烧……运输舱里装着一组植入物：{0}。</BN_Casino_O7>
+	<BN_Casino_O8>看来你抽到了九张霉运牌。赌场船员回报，运输舱里装着不稳定的炸药。为了尽量让顾客活下来，他们向你发出了警告：你有 3 小时可以把最值钱的东西藏好。之后，来袭的运输舱会把你定居点的一大片区域炸飞。祝你好运！</BN_Casino_O8>
+	<BN_Casino_BombMsg>一个装满炸药的运输舱正坠向你的定居点！</BN_Casino_BombMsg>
+	<BN_Casino_O9>你的殖民者甚至没注意到，定居点附近出现了一个上锁的小运输舱，里面有东西在闪烁。打开后才发现里面是一个信标。这究竟代表什么还不清楚，但信号相当强，你显然该准备迎接访客了。</BN_Casino_O9>
+	<BN_Casino_Fail>运输舱无法送达。赌场已退还你的款项。</BN_Casino_Fail>
+
+	<BN_Active_CasinoShip>赌场飞船位于轨道上</BN_Active_CasinoShip>
+	<BN_Active_CasinoShip_Desc>贩售惊喜运输舱。请通过通讯台联系。</BN_Active_CasinoShip_Desc>
+	<BN_Active_CasinoBomb>炸弹运输舱接近中</BN_Active_CasinoBomb>
+	<BN_Active_CasinoBomb_Desc>在倒数结束前把最值钱的东西藏好。</BN_Active_CasinoBomb_Desc>
+	<BN_Active_CasinoBeacon>等待访客</BN_Active_CasinoBeacon>
+	<BN_Active_CasinoBeacon_Desc>信标的信号相当强。</BN_Active_CasinoBeacon_Desc>
+
+	<BN_ResortShip_Name>度假飞船</BN_ResortShip_Name>
+	<BN_Resort_ShipName>度假邮轮“极光号”</BN_Resort_ShipName>
+	<BN_Resort_Arrived>一艘度假太空船进入了你们星球的轨道。水疗、电影院、酒吧、妓院——各种打发闲暇时间的方式应有尽有！只要支付 7,500 白银，就会派一架穿梭机来接人，你可以送任何殖民者去度假一周。请通过通讯台联系这艘飞船。</BN_Resort_Arrived>
+	<BN_Resort_Prompt>决定好好休息一下了吗？好主意！希望你们不会带什么病回去……</BN_Resort_Prompt>
+	<BN_Resort_Yes>好。（支付 {0} 白银）</BN_Resort_Yes>
+	<BN_Resort_No>我们改变主意了。</BN_Resort_No>
+	<BN_Resort_NoSilver>白银不足。需要 {0}。</BN_Resort_NoSilver>
+	<BN_Resort_AlreadyUsed>我们已经送过一批人去度假了。</BN_Resort_AlreadyUsed>
+	<BN_Resort_ShuttleLabel>度假穿梭机抵达</BN_Resort_ShuttleLabel>
+	<BN_Resort_ShuttleText>度假穿梭机降落在你的定居点附近。把殖民者送上穿梭机并发射，就能让他们去度假一周。</BN_Resort_ShuttleText>
+	<BN_Resort_Departed>{0}名殖民者已出发去度假一周。</BN_Resort_Departed>
+	<BN_Resort_NoPawns>穿梭机上没有乘客，没有人可以送去度假。</BN_Resort_NoPawns>
+	<BN_Resort_ReturnLabel>度假者归来</BN_Resort_ReturnLabel>
+	<BN_Resort_ReturnText>你的殖民者（{0}人）从度假飞船回来了，休息充足，精力充沛！</BN_Resort_ReturnText>
+	<BN_ResortVacation.stages.0.label>在度假飞船上休息过</BN_ResortVacation.stages.0.label>
+	<BN_ResortVacation.stages.0.description>我在度假飞船上好好休息了一番！天啊，真希望能再去一次。</BN_ResortVacation.stages.0.description>
+
+	<BN_HungerGames_Name>饥饿游戏</BN_HungerGames_Name>
+	<BN_HungerGames_Intro>{FACTION_name}宣布举办一场至死方休的国际饥饿游戏。一如往常，最后只会有一名胜者。你获准参加。致胜的关键技能是近战和射击。奖金是 20,000 白银。就算拥有传奇等级的技能也不保证能获胜。请通过通讯台联系飞船，派出一名殖民者。</BN_HungerGames_Intro>
+	<BN_HungerGames_ShipName>饥饿游戏飞船</BN_HungerGames_ShipName>
+	<BN_HungerGames_Prompt>你想派你的斗士去参加饥饿游戏吗？要知道，对方可能回不来。希望你们不会带什么病过来……</BN_HungerGames_Prompt>
+	<BN_HungerGames_SendOption>派出一名殖民者</BN_HungerGames_SendOption>
+	<BN_HungerGames_Cancel>我们改变主意了。</BN_HungerGames_Cancel>
+	<BN_HungerGames_NoPawns>没有合适的殖民者。</BN_HungerGames_NoPawns>
+	<BN_HungerGames_OfferExpired>这项提议已经失效。</BN_HungerGames_OfferExpired>
+	<BN_HungerGames_DepartLabel>殖民者已出发</BN_HungerGames_DepartLabel>
+	<BN_HungerGames_DepartText>{PAWN_nameFull}已出发前往饥饿游戏。如果能活下来，一周后就会回来。</BN_HungerGames_DepartText>
+	<BN_HungerGames_WinLabel>饥饿游戏获胜</BN_HungerGames_WinLabel>
+	<BN_HungerGames_WinText>{PAWN_nameFull}赢得了饥饿游戏，带着 20,000 白银的奖金回来了！</BN_HungerGames_WinText>
+	<BN_HungerGames_LoseLabel>死于饥饿游戏</BN_HungerGames_LoseLabel>
+	<BN_HungerGames_LoseText>{PAWN_nameFull}在饥饿游戏中丧命。遗体已装在胶囊里送回给你。</BN_HungerGames_LoseText>
+
+	<BN_HungerGames_CancelledDraft>已取消参赛：该殖民者被征召了。</BN_HungerGames_CancelledDraft>
+
+	<BN_MercenaryShip_Name>佣兵飞船</BN_MercenaryShip_Name>
+	<BN_Mercenary_ShipName>佣兵巡洋舰“血契号”</BN_Mercenary_ShipName>
+	<BN_Mercenary_Intro>轨道上侦测到一艘巨大的太空船，不久后它表明自己是一家佣兵公司。他们来到这个星系的确切目的不明，但传闻他们在这颗星球上有另一项任务。在他们停留期间，只要支付象征性的费用，他们愿意为任何定居点提供暂时的保护。请通过通讯台联系他们。</BN_Mercenary_Intro>
+	<BN_Mercenary_Prompt>决定购买我们的保护了吗？</BN_Mercenary_Prompt>
+	<BN_Mercenary_BuyProtection>好。（启用 {0} 天的袭击防护）</BN_Mercenary_BuyProtection>
+	<BN_Mercenary_ProtectionSold>我们已经在这颗星球上卖过保护了。</BN_Mercenary_ProtectionSold>
+	<BN_Mercenary_NotYet>还不用。</BN_Mercenary_NotYet>
+	<BN_Mercenary_AskStrike>我们可以向你们购买一发能量光束砲击吗？</BN_Mercenary_AskStrike>
+	<BN_Mercenary_StrikePrompt>嗯……可以，但风险自负。开砲的是新兵，很可能会打偏。</BN_Mercenary_StrikePrompt>
+	<BN_Mercenary_OtherTargetAnswer>不行。他们可能是我们的客户。</BN_Mercenary_OtherTargetAnswer>
+	<BN_Mercenary_BuyBasicStrike>购买能量砲击。（{0} 白银）</BN_Mercenary_BuyBasicStrike>
+	<BN_Mercenary_BuyPremiumStrike>加价购买精准射击。（{0} 白银）</BN_Mercenary_BuyPremiumStrike>
+	<BN_Mercenary_Cancel>我们改变主意了。</BN_Mercenary_Cancel>
+	<BN_Mercenary_AskOtherTarget>你们能砲击别人的定居点吗？</BN_Mercenary_AskOtherTarget>
+	<BN_Mercenary_NoSilver>白银不足。需要 {0}。</BN_Mercenary_NoSilver>
+	<BN_Mercenary_ProtectionLabel>佣兵保护已启用</BN_Mercenary_ProtectionLabel>
+	<BN_Mercenary_ProtectionText>佣兵将在 {0} 天内保护你的定居点。任何针对你的敌对袭击，都会在抵达边境前就被摧毁。</BN_Mercenary_ProtectionText>
+	<BN_Mercenary_RaidBlockedLabel>佣兵击退了一次袭击</BN_Mercenary_RaidBlockedLabel>
+	<BN_Mercenary_RaidBlockedText>佣兵巡洋舰的轨道砲在来袭部队接近你的边境之前，就把他们摧毁了。</BN_Mercenary_RaidBlockedText>
+	<BN_Mercenary_StrikeLabel>轨道砲击</BN_Mercenary_StrikeLabel>
+	<BN_Mercenary_StrikeText>佣兵向你选定的区域发射了一道能量光束。</BN_Mercenary_StrikeText>
+	<BN_Mercenary_Deviation>新兵打偏了——光束偏离了目标。</BN_Mercenary_Deviation>
+	<BN_Active_MercenaryProtection>佣兵保护</BN_Active_MercenaryProtection>
+	<BN_Active_MercenaryProtection_Desc>袭击会在抵达你的边境前被摧毁。</BN_Active_MercenaryProtection_Desc>
+
+	<BN_AllyAttackQuest_Name>与盟友联合进攻</BN_AllyAttackQuest_Name>
+	<BN_AllyDefenseQuest_Name>防守盟友定居点</BN_AllyDefenseQuest_Name>
+	<BN_AllyAttack_Label>联合进攻</BN_AllyAttack_Label>
+	<BN_AllyAttack_WinLabel>联合进攻成功</BN_AllyAttack_WinLabel>
+	<BN_AllyAttack_WinText>{ALLY_name}乘胜追击，又攻下了 {COUNT} 座敌方定居点。</BN_AllyAttack_WinText>
+	<BN_AllyAttack_TimeoutLabel>盟友独自进攻</BN_AllyAttack_TimeoutLabel>
+	<BN_AllyAttack_TimeoutText>在你犹豫的时候，{ALLY_name}独自发动进攻，攻下了 1 座敌方定居点。</BN_AllyAttack_TimeoutText>
+	<BN_AllyAttack_TimeoutFail>在你犹豫的时候，{ALLY_name}独自发动进攻，但失败了。什么都没攻下。</BN_AllyAttack_TimeoutFail>
+	<BN_AllyDefense_Label>防守盟友</BN_AllyDefense_Label>
+	<BN_AllyDefense_WinLabel>防守成功</BN_AllyDefense_WinLabel>
+	<BN_AllyDefense_WinText>在你的帮助下，{ALLY_name}守住了他们的定居点。他们用运输舱送来 2,000 白银表达谢意。</BN_AllyDefense_WinText>
+	<BN_AllyDefense_LoseLabel>盟友失去了一座定居点</BN_AllyDefense_LoseLabel>
+	<BN_AllyDefense_LoseText>在你犹豫的时候，{ALLY_name}失去了他们的一座定居点。</BN_AllyDefense_LoseText>
+
+	<BN_AllyAttack_Intro>你的盟友{ALLY_name}对敌人的定居点发动了攻势，需要你的协助。一支突击小队提议与你联合进攻{SITE}。除了营地里的战利品，你还会获得 2,000 白银作为回报。小队会等你 3 天，之后就会自己发动进攻。派一支远行队前往标记的定居点，盟军小队就会加入你的突击。</BN_AllyAttack_Intro>
+	<BN_AllyDefense_Intro>你的盟友{ALLY_name}遭到{ENEMY_name}攻击。一支防守小队请求你协助防守{SITE}，他们会等你 3 天。派一支远行队前往标记的定居点，盟军守备队就会支持你的防守。</BN_AllyDefense_Intro>
+
+	<BN_AllyDefense_ProtectButton>防守定居点</BN_AllyDefense_ProtectButton>
+	<BN_AllyDefense_ProtectButtonDesc>前往防守盟友的定居点，抵御敌人。</BN_AllyDefense_ProtectButtonDesc>
+
+	<BN_AllyAttack_RewardLabel>盟友的报酬</BN_AllyAttack_RewardLabel>
+	<BN_AllyAttack_Reward>你的盟友信守承诺：装着 {0} 白银报酬的运输舱降落在你的领地上。</BN_AllyAttack_Reward>
+
+	<BN_Update_2_Events>添加了一批新事件，大多与太空船有关。可以在模组设置中查看新事件。</BN_Update_2_Events>
+</LanguageData>

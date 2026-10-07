@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BN_Superheat.label>全球超级高温</BN_Superheat.label>
+  <BN_Superheat.description>一场全球性的生态浩劫让气温攀升到极端程度。</BN_Superheat.description>
+  <BN_Starfall.label>流星雨</BN_Starfall.label>
+  <BN_Starfall.description>夜空中满是流星。</BN_Starfall.description>
+  <BN_DrugFog.label>大麻烟雾</BN_DrugFog.label>
+  <BN_DrugFog.description>一层燃烧大麻产生的浓密绿色烟雾笼罩了这一带。</BN_DrugFog.description>
+  <BN_TotalDarkness.label>完全黑暗</BN_TotalDarkness.label>
+  <BN_TotalDarkness.description>星球陷入了伸手不见五指的黑暗。</BN_TotalDarkness.description>
+  <BN_MechaniteSwarm.label>纳米机械群</BN_MechaniteSwarm.label>
+  <BN_MechaniteSwarm.description>一大群纳米机械笼罩了星球，修复所有碰到的东西。</BN_MechaniteSwarm.description>
+</LanguageData>
