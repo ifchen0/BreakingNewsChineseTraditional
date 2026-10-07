@@ -23,4 +23,4 @@ Terms follow the vanilla Traditional Chinese translation (通訊台, 運輸艙, 
 [*]Breaking News adds new events often. Text from events added after this translation shows in English until the translation is updated.
 [/list]
 [hr][/hr]
-This translation was made with the help of AI tools (Claude Code). Translation files are in the Languages folder for review.
+This translation was made with the help of AI tools (Claude Code). Translation files are included in the Languages folder and on [url=https://github.com/ifchen0/BreakingNewsChineseTraditional]GitHub[/url] for review.
