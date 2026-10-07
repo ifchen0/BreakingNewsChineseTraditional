@@ -425,7 +425,7 @@
 	<BN_Mercenary_ShipName>傭兵巡洋艦「血契號」</BN_Mercenary_ShipName>
 	<BN_Mercenary_Intro>軌道上偵測到一艘巨大的太空船，不久後它表明自己是一家傭兵公司。他們來到這個星系的確切目的不明，但傳聞他們在這顆星球上有另一項任務。在他們停留期間，只要支付象徵性的費用，他們願意為任何據點提供暫時的保護。請透過通訊台聯絡他們。</BN_Mercenary_Intro>
 	<BN_Mercenary_Prompt>決定購買我們的保護了嗎？</BN_Mercenary_Prompt>
-	<BN_Mercenary_BuyProtection>好。（啟用 {0} 天的襲擊防護）</BN_Mercenary_BuyProtection>
+	<BN_Mercenary_BuyProtection>好。（支付 {0} 白銀，啟用 14 天的襲擊防護）</BN_Mercenary_BuyProtection>
 	<BN_Mercenary_ProtectionSold>我們已經在這顆星球上賣過保護了。</BN_Mercenary_ProtectionSold>
 	<BN_Mercenary_NotYet>還不用。</BN_Mercenary_NotYet>
 	<BN_Mercenary_AskStrike>我們可以向你們購買一發能量光束砲擊嗎？</BN_Mercenary_AskStrike>
