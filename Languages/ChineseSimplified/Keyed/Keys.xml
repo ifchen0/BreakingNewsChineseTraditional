@@ -181,7 +181,7 @@
 	<BN_Active_CommsDown_Desc>空中信号受到干扰：无法联系任何派系。</BN_Active_CommsDown_Desc>
 
 	<BN_AnomalyBreach_Name>收容失效</BN_AnomalyBreach_Name>
-	<BN_AnomalyBreach_Text>一座研究设施的收容条件遭到破坏。虽然颗粒砲弹迅速送抵现场，各地定居点仍开始回报遭到异常实体攻击。</BN_AnomalyBreach_Text>
+	<BN_AnomalyBreach_Text>一座研究设施发生收容失效。尽管已迅速调派颗粒砲弹轰击现场加以压制，各地定居点仍陆续回报遭到异常实体攻击。</BN_AnomalyBreach_Text>
 
 	<BN_AlliedGifts_Name>盟友的外交任务</BN_AlliedGifts_Name>
 	<BN_AlliedGifts_Text>{FACTION_name}的领袖决定执行一项外交任务，改善与邻近势力的关系。盟友们都收到了以运输舱送来的几份礼物。</BN_AlliedGifts_Text>
