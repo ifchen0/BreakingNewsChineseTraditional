@@ -320,7 +320,7 @@
 	<BN_Settings_RequiresDlc>需要：{0}</BN_Settings_RequiresDlc>
 
 	<BN_Update_Label>突发新闻：模组更新</BN_Update_Label>
-	<BN_Update_Header>2026/10/03 突发新闻模组已更新。</BN_Update_Header>
+	<BN_Update_Header>{0} 突发新闻模组已更新。</BN_Update_Header>
 	<BN_Update_Added>添加内容如下：</BN_Update_Added>
 	<BN_Update_1_Dlc>可以启用或停用需要特定 DLC 的事件。</BN_Update_1_Dlc>
 	<BN_Update_Footer>如果不想再收到这则消息，可以在模组设置中关闭。</BN_Update_Footer>
@@ -470,4 +470,52 @@
 	<BN_AllyAttack_Reward>你的盟友信守承诺：装着 {0} 白银报酬的运输舱降落在你的领地上。</BN_AllyAttack_Reward>
 
 	<BN_Update_2_Events>添加了一批新事件，大多与太空船有关。可以在模组设置中查看新事件。</BN_Update_2_Events>
+
+	<BN_WhisperingVoice_Name>营火旁的低语</BN_WhisperingVoice_Name>
+	<BN_Voice_Text>一个奇怪的声音在殖民者的脑海中回荡，撼动着他们的心智。那声音宛如来自地狱，背景夹杂着不得安息的灵魂绝望的哭喊。一个未知的存在向你提出交易，让你从它提供的几种服务中选择。你可以成为真正的神，凌驾于任何超凡科技之上，但必须付出某种代价作为交换。
+
+要与这个存在交涉，请使用营火。</BN_Voice_Text>
+	<BN_Voice_Option>聆听那个声音</BN_Voice_Option>
+	<BN_Voice_NoFire>营火已熄灭</BN_Voice_NoFire>
+	<BN_Voice_Title>那个声音</BN_Voice_Title>
+	<BN_Voice_Dialog>愿我的道路与命运的丝线永远不为你所知，因为你永远无法看清其中的目的。我们可以达成交易，但你为此付出的代价，在某个时刻到来之前，你也同样无从得知。</BN_Voice_Dialog>
+	<BN_Voice_O1>财富。</BN_Voice_O1>
+	<BN_Voice_O2>知识。</BN_Voice_O2>
+	<BN_Voice_O3>力量。</BN_Voice_O3>
+	<BN_Voice_O4>丰饶。</BN_Voice_O4>
+	<BN_Voice_O5>永恒。</BN_Voice_O5>
+	<BN_Voice_Leave>离开。</BN_Voice_Leave>
+	<BN_Voice_Confirm>你所要求的，是一旦开口就无法拒绝的东西，而且再也无法挽回。你确定吗？</BN_Voice_Confirm>
+	<BN_Voice_Yes>是的。永恒。</BN_Voice_Yes>
+	<BN_Voice_Back>不，我改变主意了。</BN_Voice_Back>
+	<BN_Voice_Silence>脑海中的声音沉寂下来。交易没有达成。</BN_Voice_Silence>
+	<BN_Voice_R1>交易成立。装满白银的运输舱从天而降，那个声音在你们脑海中低声窃笑：“趁还能数的时候，好好数吧。”</BN_Voice_R1>
+	<BN_Voice_R2>交易成立。知识涌入你们的脑海，你们忽然明白了从未有人明白过的事。那个声音沉默了。</BN_Voice_R2>
+	<BN_Voice_R3>交易成立。三道身穿黑色护甲的暗影从天而降。他们的眼中没有半点人性。</BN_Voice_R3>
+	<BN_Voice_R4>交易成立。装满食物的运输舱纷纷落在你们周围。能吃多少就吃多少吧。</BN_Voice_R4>
+	<BN_Voice_R5>交易成立。世界停止了。曾经有定居点的地方如今空无一物，你们周围的一切生命都在迅速死去。再也不会有任何东西到来。</BN_Voice_R5>
+	<BN_Voice_RevealWealth>代价揭晓：在那些专找富人下手的人眼中，你的财富如今加倍计算。他们会带着更强大的兵力前来。</BN_Voice_RevealWealth>
+	<BN_Voice_RevealMadness>代价揭晓：知识正在侵蚀心智。殖民者会陷入疯狂，而且在接下来的几周内都不会停止。</BN_Voice_RevealMadness>
+	<BN_Voice_MadnessReason>知道得太多</BN_Voice_MadnessReason>
+	<BN_Voice_RevealBinge>代价揭晓：永远无法满足的饥饿。你所有的殖民者都扑向了食物。</BN_Voice_RevealBinge>
+	<BN_Voice_Betrayal>代价揭晓：暗影不再为你效命。他们已经倒戈，正朝你的殖民地而来。</BN_Voice_Betrayal>
+	<BN_Voice_Alone>代价揭晓：“我完全是孤单一人……”这个念头永远不会消失。</BN_Voice_Alone>
+	<BN_Voice_ShadowName>暗影 {0}</BN_Voice_ShadowName>
+
+	<BN_Active_Voice>营火旁的低语</BN_Active_Voice>
+	<BN_Active_Voice_Desc>前往营火进行交易。</BN_Active_Voice_Desc>
+	<BN_Active_VoiceMadness>知识的重担</BN_Active_VoiceMadness>
+	<BN_Active_VoiceMadness_Desc>殖民者会不时陷入疯狂。</BN_Active_VoiceMadness_Desc>
+	<BN_Active_Eternity>永恒</BN_Active_Eternity>
+	<BN_Active_Eternity_Desc>世界停止了。只剩下你们。</BN_Active_Eternity_Desc>
+
+	<BN_RebelAllies_Name>叛变的盟友小队</BN_RebelAllies_Name>
+	<BN_RebelAllies_Text>你发现盟友派系{FACTION_name}的一支小队出现在你的领地边缘。本以为会看到友善的面孔，迎来的却只有一抹假笑。不管这是怎么回事，这支小队显然怀有敌意。</BN_RebelAllies_Text>
+	<BN_Rebels_Reward>你收到一则来自{FACTION_name}的消息，也就是先前派小队攻击你的那个派系。对方代表表示，派系内部目前正处于动荡，但情况正逐渐好转。他们送来了 {SILVER} 白银作为补偿。</BN_Rebels_Reward>
+	<BN_Active_RebelCompensation>盟友的补偿</BN_Active_RebelCompensation>
+	<BN_Active_RebelCompensation_Desc>你的盟友很快就会送来白银以示歉意。</BN_Active_RebelCompensation_Desc>
+
+	<BN_Update_3_Text>文本修正。</BN_Update_3_Text>
+	<BN_Update_3_Nerf>削弱了全球超级高温与完全黑暗。</BN_Update_3_Nerf>
+	<BN_Update_3_Events>添加了一批新事件。</BN_Update_3_Events>
 </LanguageData>
