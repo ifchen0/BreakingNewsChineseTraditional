@@ -23,7 +23,7 @@
 	<BN_Arrival_Mechs_Text>從被摧毀的機械軍團中倖存的機械族抵達了你的殖民地，正在發動攻擊。</BN_Arrival_Mechs_Text>
 
 	<BN_LeaderOppression_Name>派系領袖的高壓統治</BN_LeaderOppression_Name>
-	<BN_LeaderOppression_Intro>由於{FACTION_name}領袖的高壓統治，許多支持者離棄了他們。</BN_LeaderOppression_Intro>
+	<BN_LeaderOppression_Intro>由於{FACTION_name}領袖的高壓統治，許多支持者都背棄了這位領袖。</BN_LeaderOppression_Intro>
 	<BN_LeaderOppression_Independence>結果，許多據點決定降下舊旗，宣布獨立。</BN_LeaderOppression_Independence>
 	<BN_LeaderOppression_Exodus>派系內還有許多成員決定跟隨那些堅定的支持者離開。他們目前正忙著建立自己的據點，或投靠其他據點。</BN_LeaderOppression_Exodus>
 	<BN_LeaderOppression_Loyalists>不過，空出來的位置很快就被來自不知名據點的效忠者填補了。</BN_LeaderOppression_Loyalists>
@@ -50,7 +50,7 @@
 
 	<BN_UndergroundPheromone_Name>地下實驗室的費洛蒙</BN_UndergroundPheromone_Name>
 	<BN_UndergroundPheromone_Intro>山中洞穴某處一間不明實驗室合成出一種特殊的費洛蒙，喚醒了許多正在冬眠的地底生物。</BN_UndergroundPheromone_Intro>
-	<BN_UndergroundPheromone_Harmless>所幸地底生物的甦醒並不那麼「順利」。牠們沉睡並試圖向上鑽出的許多隧道，碰巧不是被火山熔岩淹沒，就是讓蟲子直接鑽進滿是沉睡遠古戰士或機械族的地下設施正中央。</BN_UndergroundPheromone_Harmless>
+	<BN_UndergroundPheromone_Harmless>所幸地底生物的甦醒並不那麼「順利」。牠們沉睡、正打算往上鑽的隧道，很多碰巧灌滿了火山熔岩；要不然就是蟲子一鑽出來，正好落在滿是沉睡遠古戰士或機械族的地下設施正中央。</BN_UndergroundPheromone_Harmless>
 	<BN_UndergroundPheromone_Awake>許多地下據點已經失去聯繫。</BN_UndergroundPheromone_Awake>
 
 	<BN_EmpireSpeech_Name>帝國領袖的聲明</BN_EmpireSpeech_Name>
@@ -58,7 +58,7 @@
 	<BN_EmpireSpeech_Ignored>不過在邊緣地帶，根本沒人在乎。</BN_EmpireSpeech_Ignored>
 	<BN_EmpireSpeech_Warning>領袖警告所有派系：全球超級暖化將讓這顆星球面臨生態浩劫。</BN_EmpireSpeech_Warning>
 	<BN_EmpireSpeech_Peace>領袖呼籲所有派系暫時停戰，共同對抗機械族的積極進犯。出乎意料的是，各派系都響應了這項呼籲。</BN_EmpireSpeech_Peace>
-	<BN_Superheat_Start>預言中的超級暖化開始了。全球氣溫飆升，天空變成一片血紅。快找地方躲避並降溫。</BN_Superheat_Start>
+	<BN_Superheat_Start>先前預測的超級暖化開始了。全球氣溫飆升，天空變成一片血紅。快找地方躲避並降溫。</BN_Superheat_Start>
 
 	<BN_Charity_Name>名人慈善活動</BN_Charity_Name>
 	<BN_Charity_Intro>一位來自烏托邦世界、富可敵國的媒體名人，決定在邊緣世界之間舉辦慈善活動。</BN_Charity_Intro>
@@ -70,7 +70,7 @@
 	<BN_DrugCartel_Name>販毒集團擴張</BN_DrugCartel_Name>
 	<BN_DrugCartel_Intro>一個跨星球的販毒集團決定擴大勢力範圍，在被遺忘的世界設立分部。</BN_DrugCartel_Intro>
 	<BN_DrugCartel_PriceDrop>「本地」供應商的毒品價格大幅下跌。</BN_DrugCartel_PriceDrop>
-	<BN_DrugCartel_Blockade>你們星球上的兇狠幫派不支持競爭對手的計畫，帶著防空武器和臨時拼湊的飛船佈下了軌道防線。接下來幾天預計會有殘骸和貨艙墜落。</BN_DrugCartel_Blockade>
+	<BN_DrugCartel_Blockade>你們星球上的兇狠幫派可不歡迎外來的競爭對手，帶著防空武器和臨時拼湊的飛船佈下了軌道防線。接下來幾天預計會有殘骸和貨艙墜落。</BN_DrugCartel_Blockade>
 	<BN_DrugCartel_Nothing>不知是福是禍，你們的星球位在銀河系極其偏遠的角落，連他們都決定不來了。</BN_DrugCartel_Nothing>
 
 	<BN_TvPremiere_Name>影集首播</BN_TvPremiere_Name>
@@ -147,7 +147,7 @@
 
 	<BN_GravityFailure_Name>重力引擎故障</BN_GravityFailure_Name>
 	<BN_GravityFailure_Intro>星球上發生了大規模的重力引擎故障，許多運輸太空梭和運輸艙因此墜毀。</BN_GravityFailure_Intro>
-	<BN_GravityFailure_Pod>一個墜落的運輸艙掉在你的領地上，裡面有一名倖存者。</BN_GravityFailure_Pod>
+	<BN_GravityFailure_Pod>一個失事的運輸艙墜落在你的領地上，裡面有一名倖存者。</BN_GravityFailure_Pod>
 	<BN_GravityFailure_Shuttle>一架故障的太空梭迫降在你的領地上。</BN_GravityFailure_Shuttle>
 	<BN_GravityFailure_Nothing>所幸沒有東西掉在你的領地上。</BN_GravityFailure_Nothing>
 	<BN_GravityFailure_PodMsg>某處有運輸艙正在墜落！</BN_GravityFailure_PodMsg>
@@ -258,7 +258,7 @@
 	<BN_ChildrenCrusade_Name>兒童十字軍</BN_ChildrenCrusade_Name>
 	<BN_Crusade_Text>！！！突發新聞！！！
 
-一名無名的傳教士說服了{FACTION1_name}的孩子們，讓他們相信自己在這殘酷世界中的存在本身就是一項偉大使命。接著他派這些孩子到{FACTION2_name}的據點去對抗異端。大部分孩子沒能抵達目的地。不過，雖然命運令人唏噓，仍有不少孩子及時醒悟，回到了父母和師長身邊。</BN_Crusade_Text>
+一名無名的傳教士說服了{FACTION1_name}的孩子們，讓他們相信自己在這殘酷世界中的存在本身就是一項偉大使命。接著他派這些孩子到{FACTION2_name}的據點去對抗異端。大部分孩子沒能抵達目的地。他們的命運固然令人唏噓，但也有不少孩子及時醒悟，回到了父母和師長身邊。</BN_Crusade_Text>
 
 	<BN_Children_Label>孩子們請求庇護</BN_Children_Label>
 	<BN_Children_Text>一群來自{1}的孩子（{0}人）來到了你的據點。他們筋疲力盡，請求讓他們暫住一段時間。</BN_Children_Text>
@@ -290,7 +290,7 @@
 	<BN_TravelerSettlements_Text>受惠於貿易與外交，許多小型旅人營地發展成了正式的據點。世界上出現了以下據點：{0}。</BN_TravelerSettlements_Text>
 
 	<BN_VampireRefugees_Name>假面舞會落幕</BN_VampireRefugees_Name>
-	<BN_VampireRefugees_Intro>假面舞會落幕了。噬血者獵人擊潰了一個龐大的吸血鬼社群。不過仍有許多吸血鬼逃了出來，正在尋找新的棲身之所。</BN_VampireRefugees_Intro>
+	<BN_VampireRefugees_Intro>吸血鬼的偽裝被揭穿了。噬血者獵人擊潰了一個龐大的吸血鬼社群。不過仍有許多吸血鬼逃了出來，正在尋找新的棲身之所。</BN_VampireRefugees_Intro>
 	<BN_VampireRefugees_Incoming>噬血者社群的殘黨正朝你的據點前進。再過一兩天，他們就會抵達並請求庇護。</BN_VampireRefugees_Incoming>
 	<BN_VampireRefugees_Title>噬血者請求庇護</BN_VampireRefugees_Title>
 	<BN_VampireRefugees_Text>兩名噬血者和幾名僕從來到了你的據點。他們筋疲力盡，請求暫時的庇護。如果你拒絕，他們可能會試圖以武力奪取據點。</BN_VampireRefugees_Text>
@@ -417,13 +417,13 @@
 	<BN_HungerGames_WinLabel>飢餓遊戲獲勝</BN_HungerGames_WinLabel>
 	<BN_HungerGames_WinText>{PAWN_nameFull}贏得了飢餓遊戲，帶著 20,000 白銀的獎金回來了！</BN_HungerGames_WinText>
 	<BN_HungerGames_LoseLabel>死於飢餓遊戲</BN_HungerGames_LoseLabel>
-	<BN_HungerGames_LoseText>{PAWN_nameFull}在飢餓遊戲中喪命。遺體已裝在膠囊裡送回給你。</BN_HungerGames_LoseText>
+	<BN_HungerGames_LoseText>{PAWN_nameFull}在飢餓遊戲中喪命。遺體已裝在運輸艙裡送回給你。</BN_HungerGames_LoseText>
 
 	<BN_HungerGames_CancelledDraft>已取消參賽：該殖民者被徵召了。</BN_HungerGames_CancelledDraft>
 
 	<BN_MercenaryShip_Name>傭兵飛船</BN_MercenaryShip_Name>
 	<BN_Mercenary_ShipName>傭兵巡洋艦「血契號」</BN_Mercenary_ShipName>
-	<BN_Mercenary_Intro>軌道上偵測到一艘巨大的太空船，不久後它表明自己是一家傭兵公司。他們來到這個星系的確切目的不明，但傳聞他們在這顆星球上有另一項任務。在他們停留期間，只要支付象徵性的費用，他們願意為任何據點提供暫時的保護。請透過通訊台聯絡他們。</BN_Mercenary_Intro>
+	<BN_Mercenary_Intro>軌道上偵測到一艘巨大的太空船，不久後它表明自己是一家傭兵公司。他們來到這個星系的確切目的不明，但傳聞他們是來這顆星球執行任務的。在他們停留期間，只要支付象徵性的費用，他們願意為任何據點提供暫時的保護。請透過通訊台聯絡他們。</BN_Mercenary_Intro>
 	<BN_Mercenary_Prompt>決定購買我們的保護了嗎？</BN_Mercenary_Prompt>
 	<BN_Mercenary_BuyProtection>好。（支付 {0} 白銀，啟用 14 天的襲擊防護）</BN_Mercenary_BuyProtection>
 	<BN_Mercenary_ProtectionSold>我們已經在這顆星球上賣過保護了。</BN_Mercenary_ProtectionSold>
