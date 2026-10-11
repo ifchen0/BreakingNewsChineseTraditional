@@ -322,7 +322,10 @@
 	<BN_Update_Label>突發新聞：模組更新</BN_Update_Label>
 	<BN_Update_Header>{0} 突發新聞模組已更新。</BN_Update_Header>
 	<BN_Update_Added>新增內容如下：</BN_Update_Added>
-	<BN_Update_1_Dlc>可以啟用或停用需要特定 DLC 的事件。</BN_Update_1_Dlc>
+	<BN_Update_1_update>修正了數個事件。</BN_Update_1_update>
+	<BN_Update_2_update>新增了新事件。</BN_Update_2_update>
+	<BN_Update_3_update>在無悔模式或太空中遊玩時，新增一封警告信件。</BN_Update_3_update>
+	<BN_Update_4_update>修正了移除模組後與存檔相關的嚴重錯誤。</BN_Update_4_update>
 	<BN_Update_Footer>如果不想再收到這則訊息，可以在模組設定中關閉。</BN_Update_Footer>
 
 	<BN_Settings_ShowUpdates>顯示模組更新訊息</BN_Settings_ShowUpdates>
@@ -518,4 +521,47 @@
 	<BN_Update_3_Text>文字修正。</BN_Update_3_Text>
 	<BN_Update_3_Nerf>削弱了全球超級高溫與完全黑暗。</BN_Update_3_Nerf>
 	<BN_Update_3_Events>新增了一批新事件。</BN_Update_3_Events>
+
+	<BN_Resort_GizmoLabel>送去度假</BN_Resort_GizmoLabel>
+	<BN_Resort_GizmoDesc>把太空梭上的殖民者送去度假郵輪。他們會在一週後回來。</BN_Resort_GizmoDesc>
+
+	<BN_Safety_Title>突發新聞</BN_Safety_Title>
+	<BN_Safety_SpaceText>突發新聞事件模組在設計時並未考慮事件發生在太空中的情況。你可以讓這個模組的事件繼續運作、面對各種意外，或者先停用事件，等回到星球上再說。</BN_Safety_SpaceText>
+	<BN_Safety_RpText>突發新聞模組加入的事件並未針對無悔模式玩家做好平衡。你可以停用這個模組的事件，或者在了解所有風險的前提下保留它們。</BN_Safety_RpText>
+	<BN_Safety_Disable>停用事件。</BN_Safety_Disable>
+	<BN_Safety_Keep>保留事件，我了解風險。</BN_Safety_Keep>
+
+	<BN_FashionShow_Name>時裝秀</BN_FashionShow_Name>
+	<BN_FashionShow_Text>{FACTION_name}決定在旗下的據點{SETTLEMENT}舉辦一場時裝秀。在混亂的邊緣世界裡，這不算什麼常見的活動，但仍有許多派系決定參加。
+
+你也可以參加，只要派一名殖民者穿上最好的衣服前往會場。
+
+別忘了這是時裝秀。如果派去的殖民者穿著護甲，就不能參賽。
+
+要參加的話，請派一名殖民者前往指定的據點。獲勝的話，他們會帶回 5000 白銀的獎金。
+
+提示：華麗和染色的衣物最受青睞。
+	</BN_FashionShow_Text>
+	<BN_Fashion_Option>參加時裝秀（{0}）</BN_Fashion_Option>
+	<BN_Fashion_Report>正前往{0}參加時裝秀</BN_Fashion_Report>
+	<BN_Fashion_Ended>時裝秀已經結束了。</BN_Fashion_Ended>
+	<BN_Fashion_AlreadyEntered>你已經參加過這場時裝秀了。</BN_Fashion_AlreadyEntered>
+	<BN_Fashion_NoColonist>旅隊中沒有可以參賽的殖民者。</BN_Fashion_NoColonist>
+	<BN_Fashion_Over>時裝秀結束了。</BN_Fashion_Over>
+	<BN_Fashion_PickTitle>時裝秀</BN_Fashion_PickTitle>
+	<BN_Fashion_PickText>要派誰走上伸展台？</BN_Fashion_PickText>
+	<BN_Fashion_Armor>不得穿著護甲：{0}</BN_Fashion_Armor>
+	<BN_Fashion_Cancel>算了。</BN_Fashion_Cancel>
+	<BN_Fashion_R1>{NAME}的造型轟動全場，拿下第一名！獎金：{SILVER} 白銀。表現 {SCORE}%，門檻 {NEED}%。</BN_Fashion_R1>
+	<BN_Fashion_R2>{NAME}拿下第二名。獎金：{SILVER} 白銀。表現 {SCORE}%，門檻 {NEED}%。</BN_Fashion_R2>
+	<BN_Fashion_R3>{NAME}拿下第三名。獎金：{SILVER} 白銀。表現 {SCORE}%，門檻 {NEED}%。</BN_Fashion_R3>
+	<BN_Fashion_R0>{NAME}沒能擠進前三名。表現 {SCORE}%，門檻 {NEED}%。評審不為所動。</BN_Fashion_R0>
+	<BN_Active_FashionShow>時裝秀</BN_Active_FashionShow>
+	<BN_Active_FashionShow_Desc>派一名沒穿護甲的殖民者前往最近的中立派系據點。</BN_Active_FashionShow_Desc>
+
+	<BN_SaveWarning_Title>警告</BN_SaveWarning_Title>
+	<BN_SaveWarning_Text>突發新聞模組加入了新的遊戲事件，如果在沒有這個模組的情況下讀取存檔，存檔可能會損壞。作者目前還沒找到解決方法。如果你仍想在不使用這個模組的情況下繼續遊玩，模組設定中新增了「停用所有事件」選項，它會移除突發新聞分頁並阻止事件發生。</BN_SaveWarning_Text>
+	<BN_SaveWarning_Ok>好。</BN_SaveWarning_Ok>
+	<BN_Settings_DisableAllEvents>停用所有事件</BN_Settings_DisableAllEvents>
+	<BN_Settings_DisableAllEvents_Tip>阻止突發新聞事件發生，並隱藏突發新聞分頁。</BN_Settings_DisableAllEvents_Tip>
 </LanguageData>

@@ -322,7 +322,10 @@
 	<BN_Update_Label>突发新闻：模组更新</BN_Update_Label>
 	<BN_Update_Header>{0} 突发新闻模组已更新。</BN_Update_Header>
 	<BN_Update_Added>添加内容如下：</BN_Update_Added>
-	<BN_Update_1_Dlc>可以启用或停用需要特定 DLC 的事件。</BN_Update_1_Dlc>
+	<BN_Update_1_update>修正了数个事件。</BN_Update_1_update>
+	<BN_Update_2_update>添加了新事件。</BN_Update_2_update>
+	<BN_Update_3_update>在无悔模式或太空中游玩时，添加一封警告信件。</BN_Update_3_update>
+	<BN_Update_4_update>修正了移除模组后与存盘相关的严重错误。</BN_Update_4_update>
 	<BN_Update_Footer>如果不想再收到这则消息，可以在模组设置中关闭。</BN_Update_Footer>
 
 	<BN_Settings_ShowUpdates>显示模组更新消息</BN_Settings_ShowUpdates>
@@ -518,4 +521,47 @@
 	<BN_Update_3_Text>文本修正。</BN_Update_3_Text>
 	<BN_Update_3_Nerf>削弱了全球超级高温与完全黑暗。</BN_Update_3_Nerf>
 	<BN_Update_3_Events>添加了一批新事件。</BN_Update_3_Events>
+
+	<BN_Resort_GizmoLabel>送去度假</BN_Resort_GizmoLabel>
+	<BN_Resort_GizmoDesc>把穿梭机上的殖民者送去度假邮轮。他们会在一周后回来。</BN_Resort_GizmoDesc>
+
+	<BN_Safety_Title>突发新闻</BN_Safety_Title>
+	<BN_Safety_SpaceText>突发新闻事件模组在设计时并未考虑事件发生在太空中的情况。你可以让这个模组的事件继续运作、面对各种意外，或者先停用事件，等回到星球上再说。</BN_Safety_SpaceText>
+	<BN_Safety_RpText>突发新闻模组加入的事件并未针对无悔模式玩家做好平衡。你可以停用这个模组的事件，或者在了解所有风险的前提下保留它们。</BN_Safety_RpText>
+	<BN_Safety_Disable>停用事件。</BN_Safety_Disable>
+	<BN_Safety_Keep>保留事件，我了解风险。</BN_Safety_Keep>
+
+	<BN_FashionShow_Name>时装秀</BN_FashionShow_Name>
+	<BN_FashionShow_Text>{FACTION_name}决定在旗下的定居点{SETTLEMENT}举办一场时装秀。在混乱的边缘世界里，这不算什么常见的活动，但仍有许多派系决定参加。
+
+你也可以参加，只要派一名殖民者穿上最好的衣服前往会场。
+
+别忘了这是时装秀。如果派去的殖民者穿着护甲，就不能参赛。
+
+要参加的话，请派一名殖民者前往指定的定居点。获胜的话，他们会带回 5000 白银的奖金。
+
+提示：华丽和染色的衣物最受青睐。
+	</BN_FashionShow_Text>
+	<BN_Fashion_Option>参加时装秀（{0}）</BN_Fashion_Option>
+	<BN_Fashion_Report>正前往{0}参加时装秀</BN_Fashion_Report>
+	<BN_Fashion_Ended>时装秀已经结束了。</BN_Fashion_Ended>
+	<BN_Fashion_AlreadyEntered>你已经参加过这场时装秀了。</BN_Fashion_AlreadyEntered>
+	<BN_Fashion_NoColonist>商队中没有可以参赛的殖民者。</BN_Fashion_NoColonist>
+	<BN_Fashion_Over>时装秀结束了。</BN_Fashion_Over>
+	<BN_Fashion_PickTitle>时装秀</BN_Fashion_PickTitle>
+	<BN_Fashion_PickText>要派谁走上伸展台？</BN_Fashion_PickText>
+	<BN_Fashion_Armor>不得穿着护甲：{0}</BN_Fashion_Armor>
+	<BN_Fashion_Cancel>算了。</BN_Fashion_Cancel>
+	<BN_Fashion_R1>{NAME}的造型轰动全场，拿下第一名！奖金：{SILVER} 白银。表现 {SCORE}%，门槛 {NEED}%。</BN_Fashion_R1>
+	<BN_Fashion_R2>{NAME}拿下第二名。奖金：{SILVER} 白银。表现 {SCORE}%，门槛 {NEED}%。</BN_Fashion_R2>
+	<BN_Fashion_R3>{NAME}拿下第三名。奖金：{SILVER} 白银。表现 {SCORE}%，门槛 {NEED}%。</BN_Fashion_R3>
+	<BN_Fashion_R0>{NAME}没能挤进前三名。表现 {SCORE}%，门槛 {NEED}%。评审不为所动。</BN_Fashion_R0>
+	<BN_Active_FashionShow>时装秀</BN_Active_FashionShow>
+	<BN_Active_FashionShow_Desc>派一名没穿护甲的殖民者前往最近的中立派系定居点。</BN_Active_FashionShow_Desc>
+
+	<BN_SaveWarning_Title>警告</BN_SaveWarning_Title>
+	<BN_SaveWarning_Text>突发新闻模组加入了新的游戏事件，如果在没有这个模组的情况下读取存盘，存盘可能会损坏。作者目前还没找到解决方法。如果你仍想在不使用这个模组的情况下继续游玩，模组设置中添加了“停用所有事件”选项，它会移除突发新闻分页并阻止事件发生。</BN_SaveWarning_Text>
+	<BN_SaveWarning_Ok>好。</BN_SaveWarning_Ok>
+	<BN_Settings_DisableAllEvents>停用所有事件</BN_Settings_DisableAllEvents>
+	<BN_Settings_DisableAllEvents_Tip>阻止突发新闻事件发生，并隐藏突发新闻分页。</BN_Settings_DisableAllEvents_Tip>
 </LanguageData>
