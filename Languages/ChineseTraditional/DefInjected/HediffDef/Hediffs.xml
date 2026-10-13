@@ -2,4 +2,6 @@
 <LanguageData>
   <BN_Earthquake.label>地震</BN_Earthquake.label>
   <BN_Earthquake.description>地面搖晃得太劇烈，根本站不穩。</BN_Earthquake.description>
+  <BN_BloodMoonBoost.label>血月</BN_BloodMoonBoost.label>
+  <BN_BloodMoonBoost.description>血月強化了這名噬血者。</BN_BloodMoonBoost.description>
 </LanguageData>

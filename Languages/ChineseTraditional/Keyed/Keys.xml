@@ -322,10 +322,11 @@
 	<BN_Update_Label>突發新聞：模組更新</BN_Update_Label>
 	<BN_Update_Header>{0} 突發新聞模組已更新。</BN_Update_Header>
 	<BN_Update_Added>新增內容如下：</BN_Update_Added>
-	<BN_Update_1_update>修正了數個事件。</BN_Update_1_update>
-	<BN_Update_2_update>新增了新事件。</BN_Update_2_update>
-	<BN_Update_3_update>在無悔模式或太空中遊玩時，新增一封警告信件。</BN_Update_3_update>
-	<BN_Update_4_update>修正了移除模組後與存檔相關的嚴重錯誤。</BN_Update_4_update>
+	<BN_Update_1_update>修正並重新平衡了數個事件。</BN_Update_1_update>
+	<BN_Update_2_update>新增了新事件，包括「血獵」和「野蠻部落」。</BN_Update_2_update>
+	<BN_Update_3_update>新增了一隻會跳舞的狗！</BN_Update_3_update>
+	<BN_Update_4_update>新增了防止事件過於頻繁重複發生的機制。</BN_Update_4_update>
+	<BN_Update_5_update>新增了早期據點保護機制。</BN_Update_5_update>
 	<BN_Update_Footer>如果不想再收到這則訊息，可以在模組設定中關閉。</BN_Update_Footer>
 
 	<BN_Settings_ShowUpdates>顯示模組更新訊息</BN_Settings_ShowUpdates>
@@ -560,8 +561,96 @@
 	<BN_Active_FashionShow_Desc>派一名沒穿護甲的殖民者前往最近的中立派系據點。</BN_Active_FashionShow_Desc>
 
 	<BN_SaveWarning_Title>警告</BN_SaveWarning_Title>
-	<BN_SaveWarning_Text>突發新聞模組加入了新的遊戲事件，如果在沒有這個模組的情況下讀取存檔，存檔可能會損壞。作者目前還沒找到解決方法。如果你仍想在不使用這個模組的情況下繼續遊玩，模組設定中新增了「停用所有事件」選項，它會移除突發新聞分頁並阻止事件發生。</BN_SaveWarning_Text>
+	<BN_SaveWarning_Text>突發新聞模組加入了新的遊戲事件，如果在沒有這個模組的情況下讀取存檔，存檔可能會損壞。作者目前還沒找到解決方法。如果你仍想在不使用這個模組的情況下繼續遊玩，模組設定中新增了「停用所有事件」選項，它會移除突發新聞分頁並阻止事件發生。
+
+這則訊息只是個警告，幫助你避免存檔損壞。</BN_SaveWarning_Text>
 	<BN_SaveWarning_Ok>好。</BN_SaveWarning_Ok>
 	<BN_Settings_DisableAllEvents>停用所有事件</BN_Settings_DisableAllEvents>
 	<BN_Settings_DisableAllEvents_Tip>阻止突發新聞事件發生，並隱藏突發新聞分頁。</BN_Settings_DisableAllEvents_Tip>
+
+	<BN_Settings_Protect>早期據點保護</BN_Settings_Protect>
+	<BN_Settings_Protect_Tip>殖民地財富低於 100,000 時，部分危險事件會被停用。達到這個門檻後，保護會永久關閉。</BN_Settings_Protect_Tip>
+	<BN_Protect_Low>你目前的財富水準太低，不適合部分事件，因此這些事件已被停用。如果想關閉早期據點保護機制，可以在模組設定中關閉。</BN_Protect_Low>
+	<BN_Protect_Off>你的財富已超過 100,000。早期據點保護機制已關閉，模組的所有事件現在都可能發生。</BN_Protect_Off>
+	<BN_BloodHunt_Name>血獵</BN_BloodHunt_Name>
+	<BN_BloodHunt_Text>這顆邊緣世界上守護「假面」的噬血者組織與你取得了聯繫。你的噬血者{HEMOPHAGE_nameFull}的「血統來源」正受到強烈質疑，而且還被控多次違反假面守則、紀錄在案。因此，他們對其發布了血獵令。
+
+一段時間後，一群噬血者會帶著他們的奴隸、食屍鬼和其他生物，在血月的影響下襲擊你的據點。
+
+「Sanguis sanguinem postulat」（以血還血）</BN_BloodHunt_Text>
+	<BN_BloodHunt_Raid>血月已在你的據點上空升起。成群的噬血者帶著奴隸、食屍鬼和其他生物來找你了！</BN_BloodHunt_Raid>
+	<BN_BloodMoon_End>血月落下了。復活的死者化為塵土。</BN_BloodMoon_End>
+	<BN_Active_BloodHunt>血獵</BN_Active_BloodHunt>
+	<BN_Active_BloodHunt_Desc>噬血者正準備襲擊你的據點。</BN_Active_BloodHunt_Desc>
+	<BN_Active_BloodMoon>血月</BN_Active_BloodMoon>
+	<BN_Active_BloodMoon_Desc>噬血者獲得強化，死者從地底爬起。</BN_Active_BloodMoon_Desc>
+	<BN_DancingDog_Name>帶著音響的狗</BN_DancingDog_Name>
+	<BN_DancingDog_Text>一隻帶著手提音響的怪狗來了。看樣子牠準備要……跳舞？……</BN_DancingDog_Text>
+	<BN_Active_DancingDog>跳舞的狗</BN_Active_DancingDog>
+	<BN_Active_DancingDog_Desc>音響附近的所有人都跳起舞來。</BN_Active_DancingDog_Desc>
+	<BN_BeetleTamer_Name>甲蟲馴獸師</BN_BeetleTamer_Name>
+	<BN_BeetleTamer_Text>一位甲蟲馴獸師來了。沒人知道他是怎麼馴服這些甲蟲的，但他說祕訣是「加一小撮愛」。</BN_BeetleTamer_Text>
+	<BN_HolyWar_Name>聖地</BN_HolyWar_Name>
+	<BN_HolyWar_Text>世界上又爆發了一場宗教紛爭，這次牽涉到你的理念。原本應由所有朝聖者共享的「聖地」，遭到派系{FACTION_name}貪婪的異端褻瀆。長老們號召所有信徒參與一場決戰，爭取捍衛你們理念利益的權利。你可以派出戰士協助他們。
+
+如果你之前還沒找到過聖物，或許能在聖地發現一件。不過你得為它而戰。他們會等你一週。</BN_HolyWar_Text>
+	<BN_Holy_Label>聖地</BN_Holy_Label>
+	<BN_Holy_Battle>聖地之戰開始了！兩支軍隊正朝彼此進軍。</BN_Holy_Battle>
+	<BN_Holy_Expired>時間到了：聖地之戰在沒有你參與的情況下進行了。</BN_Holy_Expired>
+	<BN_Holy_Relic>你在聖地中央發現了你們理念的聖物！</BN_Holy_Relic>
+	<BN_Active_HolyLand>聖地</BN_Active_HolyLand>
+	<BN_Active_HolyLand_Desc>在標記消失前派出戰士支援你的理念。</BN_Active_HolyLand_Desc>
+	<BN_Lottery_Name>星球樂透</BN_Lottery_Name>
+	<BN_Lottery_ShipName>星球樂透</BN_Lottery_ShipName>
+	<BN_Lottery_Text>派系{FACTION_name}決定舉辦傳統的星球樂透。只要使用通訊台並支付 100 白銀，就有機會贏得 100,000 白銀！中獎機率很低，而且一旦中獎，多半馬上就會有人來襲擊你，但這個風險值得一冒。
+
+順帶一提，你的每名殖民者都可以參加樂透，稍微提高中獎機率。</BN_Lottery_Text>
+	<BN_Lottery_Prompt>一張彩券 {0} 白銀，頭獎 {1} 白銀。買一張的中獎機率：{2}%。每多一名殖民者參加，機率增加 0.5%。距離開獎：{3}。</BN_Lottery_Prompt>
+	<BN_Lottery_Buy1>買一張彩券（{0} 白銀）。</BN_Lottery_Buy1>
+	<BN_Lottery_BuyAll>為每名殖民者各買一張（{0} 張，{1} 白銀）。機率：{2}%。</BN_Lottery_BuyAll>
+	<BN_Lottery_Cancel>結束通話。</BN_Lottery_Cancel>
+	<BN_Lottery_NoSilver>交易信標附近的白銀不足（需要 {0}）。</BN_Lottery_NoSilver>
+	<BN_Lottery_Accepted>已購買彩券。結果會在樂透結束時公布。</BN_Lottery_Accepted>
+	<BN_Lottery_Already>你已經參加了這次樂透。距離開獎：{0}。</BN_Lottery_Already>
+	<BN_Lottery_Ended>樂透已經結束了。</BN_Lottery_Ended>
+	<BN_Lottery_Win>你中了星球樂透！100,000 白銀的獎金正裝在運輸艙裡落向你的據點。不過這種消息恐怕不會沒人注意到……</BN_Lottery_Win>
+	<BN_Lottery_Lose>樂透結束了。很遺憾，你的彩券沒有中獎。</BN_Lottery_Lose>
+	<BN_Lottery_NotEntered>星球樂透結束了。你沒有參加。</BN_Lottery_NotEntered>
+	<BN_Lottery_RaidText>聽說你中了樂透的可不只是你的朋友。海賊正趕來搶奪你的獎金！</BN_Lottery_RaidText>
+	<BN_Active_Lottery>星球樂透</BN_Active_Lottery>
+	<BN_Active_Lottery_Desc>可以透過通訊台購買彩券。</BN_Active_Lottery_Desc>
+	<BN_Active_LotteryRaid>海賊盯上了獎金</BN_Active_LotteryRaid>
+	<BN_Active_LotteryRaid_Desc>聽說你中獎的海賊很快就會襲擊據點。</BN_Active_LotteryRaid_Desc>
+	<BN_NightThief_Name>夜賊</BN_NightThief_Name>
+	<BN_Thief_Report>昨晚有個小偷潛入你的據點，偷走了 {SILVER} 白銀。看來你和你的殖民者都沒有察覺。下次要更警覺一點。</BN_Thief_Report>
+	<BN_Thief_Revealed>小偷被識破了！他正試圖逃跑。</BN_Thief_Revealed>
+	<BN_Thief_Escaped>被你識破的小偷還是帶著 {SILVER} 白銀逃走了。</BN_Thief_Escaped>
+	<BN_Thief_Killed>小偷被攔下了。贓物留在了據點裡。</BN_Thief_Killed>
+	<BN_Thief_Empty>被識破的小偷兩手空空地離開了。</BN_Thief_Empty>
+	<BN_OrphanParent_Name>落魄父親的懇求</BN_OrphanParent_Name>
+	<BN_OrphanParent_Text>一位落魄的父親聯絡了你，說債主要帶走他的孩子來抵債。他懇求你把孩子們收留進你的據點，因為在其他大派系裡，孩子們一定會被找到，而且很可能在下一次襲擊中喪命。
+
+要收留這些孩子，請點擊這則訊息並選擇想要的選項。不知為何，這位父親沒有說有幾個孩子，也沒說他們是什麼樣的孩子。</BN_OrphanParent_Text>
+	<BN_Orphans_Accept>收留孩子們。</BN_Orphans_Accept>
+	<BN_Orphans_Refuse>拒絕。</BN_Orphans_Refuse>
+	<BN_Orphans_Postpone>稍後再決定。</BN_Orphans_Postpone>
+	<BN_Orphans_Refused>你拒絕了。那些孩子後來怎麼了，你永遠不會知道。</BN_Orphans_Refused>
+	<BN_Orphans_Arrived>孩子們抵達了，共 {COUNT} 名。他們現在是你據點的一員了。</BN_Orphans_Arrived>
+	<BN_Active_Orphans>父親的懇求</BN_Active_Orphans>
+	<BN_Active_Orphans_Desc>在信件消失前點擊它來回應。</BN_Active_Orphans_Desc>
+	<BN_Savages_Name>野蠻部落</BN_Savages_Name>
+	<BN_Savages_Text>你在地平線上發現一支野蠻部落，他們決定在你的殖民地附近定居。他們看起來不構成任何威脅。</BN_Savages_Text>
+	<BN_StolenCaravan_Name>可疑的貿易旅隊</BN_StolenCaravan_Name>
+	<BN_StolenCaravan_Arrival>一支可疑的貿易旅隊來到了你的殖民地。商人的貨色多得異常，但最奇怪的是價格：所有東西都以市價的一半出售。對於任何試探性的問題，商人都客氣地避而不答。
+
+{0}懷疑這些貨物是贓物。唯一的問題是：被偷的是你的敵人，還是你的朋友？</BN_StolenCaravan_Arrival>
+	<BN_StolenCaravan_UnknownWitness>其中一名殖民者</BN_StolenCaravan_UnknownWitness>
+	<BN_StolenCaravan_GoodwillReason_Attacked>協助揭發贓物旅隊</BN_StolenCaravan_GoodwillReason_Attacked>
+	<BN_StolenCaravan_GoodwillReason_Bought>向可疑旅隊購買贓物</BN_StolenCaravan_GoodwillReason_Bought>
+	<BN_StolenCaravan_OutcomeAttacked>{0}派系的代表聯絡了你。你攻擊的那支旅隊確實載著從他們某個據點偷來的貨物。該派系感謝你揭發了這些小偷，你們的關係改善了。</BN_StolenCaravan_OutcomeAttacked>
+	<BN_StolenCaravan_OutcomeBought>{0}派系的代表憤怒地聯絡了你。他們得知你向一支旅隊買了貨，而那些貨物是從他們某個據點偷來的。你與該派系的關係惡化了。</BN_StolenCaravan_OutcomeBought>
+	<BN_StolenCaravan_OutcomeIgnored>先前造訪你殖民地的那支貿易旅隊確實是一群小偷。你沒向他們買任何東西，所以{0}派系對你沒有任何不滿。</BN_StolenCaravan_OutcomeIgnored>
+	<BN_StolenCaravan_Raid>怒不可遏的{0}派系派出一支 {1} 人的懲戒部隊前往你的殖民地，要懲罰你購買贓物。</BN_StolenCaravan_Raid>
+	<BN_Active_StolenCaravan>可疑的旅隊</BN_Active_StolenCaravan>
+	<BN_Active_StolenCaravan_Desc>這支旅隊的貨物便宜得可疑。</BN_Active_StolenCaravan_Desc>
 </LanguageData>

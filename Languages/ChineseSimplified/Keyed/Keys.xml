@@ -33,7 +33,7 @@
 
 	<BN_CrimeWave_Name>犯罪浪潮</BN_CrimeWave_Name>
 	<BN_CrimeWave_Intro>全球各地都出现了一批新的犯罪份子。</BN_CrimeWave_Intro>
-	<BN_CrimeWave_Dangerous>这些新的帮派与犯罪集团显然受到最大的海贼派系资助。接下来一段时间，在路上旅行会危险许多。</BN_CrimeWave_Dangerous>
+	<BN_CrimeWave_Dangerous>这些新的帮派与犯罪集团显然受到最大的海盗派系资助。接下来一段时间，在路上旅行会危险许多。</BN_CrimeWave_Dangerous>
 	<BN_CrimeWave_Safe>强大派系的道路巡逻队迅速采取了行动。接下来一段时间，道路变得比较安全了。</BN_CrimeWave_Safe>
 
 	<BN_TradeAlliance_Name>新贸易同盟</BN_TradeAlliance_Name>
@@ -322,10 +322,11 @@
 	<BN_Update_Label>突发新闻：模组更新</BN_Update_Label>
 	<BN_Update_Header>{0} 突发新闻模组已更新。</BN_Update_Header>
 	<BN_Update_Added>添加内容如下：</BN_Update_Added>
-	<BN_Update_1_update>修正了数个事件。</BN_Update_1_update>
-	<BN_Update_2_update>添加了新事件。</BN_Update_2_update>
-	<BN_Update_3_update>在无悔模式或太空中游玩时，添加一封警告信件。</BN_Update_3_update>
-	<BN_Update_4_update>修正了移除模组后与存盘相关的严重错误。</BN_Update_4_update>
+	<BN_Update_1_update>修正并重新平衡了数个事件。</BN_Update_1_update>
+	<BN_Update_2_update>添加了新事件，包括“血猎”和“野蛮部落”。</BN_Update_2_update>
+	<BN_Update_3_update>添加了一只会跳舞的狗！</BN_Update_3_update>
+	<BN_Update_4_update>添加了防止事件过于频繁重复发生的机制。</BN_Update_4_update>
+	<BN_Update_5_update>添加了早期定居点保护机制。</BN_Update_5_update>
 	<BN_Update_Footer>如果不想再收到这则消息，可以在模组设置中关闭。</BN_Update_Footer>
 
 	<BN_Settings_ShowUpdates>显示模组更新消息</BN_Settings_ShowUpdates>
@@ -560,8 +561,96 @@
 	<BN_Active_FashionShow_Desc>派一名没穿护甲的殖民者前往最近的中立派系定居点。</BN_Active_FashionShow_Desc>
 
 	<BN_SaveWarning_Title>警告</BN_SaveWarning_Title>
-	<BN_SaveWarning_Text>突发新闻模组加入了新的游戏事件，如果在没有这个模组的情况下读取存盘，存盘可能会损坏。作者目前还没找到解决方法。如果你仍想在不使用这个模组的情况下继续游玩，模组设置中添加了“停用所有事件”选项，它会移除突发新闻分页并阻止事件发生。</BN_SaveWarning_Text>
+	<BN_SaveWarning_Text>突发新闻模组加入了新的游戏事件，如果在没有这个模组的情况下读取存盘，存盘可能会损坏。作者目前还没找到解决方法。如果你仍想在不使用这个模组的情况下继续游玩，模组设置中添加了“停用所有事件”选项，它会移除突发新闻分页并阻止事件发生。
+
+这则消息只是个警告，帮助你避免存盘损坏。</BN_SaveWarning_Text>
 	<BN_SaveWarning_Ok>好。</BN_SaveWarning_Ok>
 	<BN_Settings_DisableAllEvents>停用所有事件</BN_Settings_DisableAllEvents>
 	<BN_Settings_DisableAllEvents_Tip>阻止突发新闻事件发生，并隐藏突发新闻分页。</BN_Settings_DisableAllEvents_Tip>
+
+	<BN_Settings_Protect>早期定居点保护</BN_Settings_Protect>
+	<BN_Settings_Protect_Tip>殖民地财富低于 100,000 时，部分危险事件会被停用。达到这个门槛后，保护会永久关闭。</BN_Settings_Protect_Tip>
+	<BN_Protect_Low>你目前的财富水平太低，不适合部分事件，因此这些事件已被停用。如果想关闭早期定居点保护机制，可以在模组设置中关闭。</BN_Protect_Low>
+	<BN_Protect_Off>你的财富已超过 100,000。早期定居点保护机制已关闭，模组的所有事件现在都可能发生。</BN_Protect_Off>
+	<BN_BloodHunt_Name>血猎</BN_BloodHunt_Name>
+	<BN_BloodHunt_Text>这颗边缘世界上守护“假面”的赫血种组织与你取得了联系。你的赫血种{HEMOPHAGE_nameFull}的“血统来源”正受到强烈质疑，而且还被控多次违反假面守则、记录在案。因此，他们对其发布了血猎令。
+
+一段时间后，一群赫血种会带着他们的奴隶、食尸鬼和其他生物，在血月的影响下袭击你的定居点。
+
+“Sanguis sanguinem postulat”（以血还血）</BN_BloodHunt_Text>
+	<BN_BloodHunt_Raid>血月已在你的定居点上空升起。成群的赫血种带着奴隶、食尸鬼和其他生物来找你了！</BN_BloodHunt_Raid>
+	<BN_BloodMoon_End>血月落下了。复活的死者化为尘土。</BN_BloodMoon_End>
+	<BN_Active_BloodHunt>血猎</BN_Active_BloodHunt>
+	<BN_Active_BloodHunt_Desc>赫血种正准备袭击你的定居点。</BN_Active_BloodHunt_Desc>
+	<BN_Active_BloodMoon>血月</BN_Active_BloodMoon>
+	<BN_Active_BloodMoon_Desc>赫血种获得强化，死者从地底爬起。</BN_Active_BloodMoon_Desc>
+	<BN_DancingDog_Name>带着音响的狗</BN_DancingDog_Name>
+	<BN_DancingDog_Text>一只带着手提音响的怪狗来了。看样子它准备要……跳舞？……</BN_DancingDog_Text>
+	<BN_Active_DancingDog>跳舞的狗</BN_Active_DancingDog>
+	<BN_Active_DancingDog_Desc>音响附近的所有人都跳起舞来。</BN_Active_DancingDog_Desc>
+	<BN_BeetleTamer_Name>甲虫驯兽师</BN_BeetleTamer_Name>
+	<BN_BeetleTamer_Text>一位甲虫驯兽师来了。没人知道他是怎么驯服这些甲虫的，但他说秘诀是“加一小撮爱”。</BN_BeetleTamer_Text>
+	<BN_HolyWar_Name>圣地</BN_HolyWar_Name>
+	<BN_HolyWar_Text>世界上又爆发了一场宗教纷争，这次牵涉到你的文化。原本应由所有朝圣者共享的“圣地”，遭到派系{FACTION_name}贪婪的异端亵渎。长老们号召所有信徒参与一场决战，争取捍卫你们文化利益的权利。你可以派出战士协助他们。
+
+如果你之前还没找到过圣物，或许能在圣地发现一件。不过你得为它而战。他们会等你一周。</BN_HolyWar_Text>
+	<BN_Holy_Label>圣地</BN_Holy_Label>
+	<BN_Holy_Battle>圣地之战开始了！两支军队正朝彼此进军。</BN_Holy_Battle>
+	<BN_Holy_Expired>时间到了：圣地之战在没有你参与的情况下进行了。</BN_Holy_Expired>
+	<BN_Holy_Relic>你在圣地中央发现了你们文化的圣物！</BN_Holy_Relic>
+	<BN_Active_HolyLand>圣地</BN_Active_HolyLand>
+	<BN_Active_HolyLand_Desc>在标记消失前派出战士支持你的文化。</BN_Active_HolyLand_Desc>
+	<BN_Lottery_Name>星球乐透</BN_Lottery_Name>
+	<BN_Lottery_ShipName>星球乐透</BN_Lottery_ShipName>
+	<BN_Lottery_Text>派系{FACTION_name}决定举办传统的星球乐透。只要使用通讯台并支付 100 白银，就有机会赢得 100,000 白银！中奖几率很低，而且一旦中奖，多半马上就会有人来袭击你，但这个风险值得一冒。
+
+顺带一提，你的每名殖民者都可以参加乐透，稍微提高中奖几率。</BN_Lottery_Text>
+	<BN_Lottery_Prompt>一张彩票 {0} 白银，头奖 {1} 白银。买一张的中奖几率：{2}%。每多一名殖民者参加，几率增加 0.5%。距离开奖：{3}。</BN_Lottery_Prompt>
+	<BN_Lottery_Buy1>买一张彩票（{0} 白银）。</BN_Lottery_Buy1>
+	<BN_Lottery_BuyAll>为每名殖民者各买一张（{0} 张，{1} 白银）。几率：{2}%。</BN_Lottery_BuyAll>
+	<BN_Lottery_Cancel>挂断。</BN_Lottery_Cancel>
+	<BN_Lottery_NoSilver>交易信标附近的白银不足（需要 {0}）。</BN_Lottery_NoSilver>
+	<BN_Lottery_Accepted>已购买彩票。结果会在乐透结束时公布。</BN_Lottery_Accepted>
+	<BN_Lottery_Already>你已经参加了这次乐透。距离开奖：{0}。</BN_Lottery_Already>
+	<BN_Lottery_Ended>乐透已经结束了。</BN_Lottery_Ended>
+	<BN_Lottery_Win>你中了星球乐透！100,000 白银的奖金正装在运输舱里落向你的定居点。不过这种消息恐怕不会没人注意到……</BN_Lottery_Win>
+	<BN_Lottery_Lose>乐透结束了。很遗憾，你的彩票没有中奖。</BN_Lottery_Lose>
+	<BN_Lottery_NotEntered>星球乐透结束了。你没有参加。</BN_Lottery_NotEntered>
+	<BN_Lottery_RaidText>听说你中了乐透的可不只是你的朋友。海盗正赶来抢夺你的奖金！</BN_Lottery_RaidText>
+	<BN_Active_Lottery>星球乐透</BN_Active_Lottery>
+	<BN_Active_Lottery_Desc>可以通过通讯台购买彩票。</BN_Active_Lottery_Desc>
+	<BN_Active_LotteryRaid>海盗盯上了奖金</BN_Active_LotteryRaid>
+	<BN_Active_LotteryRaid_Desc>听说你中奖的海盗很快就会袭击定居点。</BN_Active_LotteryRaid_Desc>
+	<BN_NightThief_Name>夜贼</BN_NightThief_Name>
+	<BN_Thief_Report>昨晚有个小偷潜入你的定居点，偷走了 {SILVER} 白银。看来你和你的殖民者都没有察觉。下次要更警觉一点。</BN_Thief_Report>
+	<BN_Thief_Revealed>小偷被识破了！他正试图逃跑。</BN_Thief_Revealed>
+	<BN_Thief_Escaped>被你识破的小偷还是带着 {SILVER} 白银逃走了。</BN_Thief_Escaped>
+	<BN_Thief_Killed>小偷被拦下了。赃物留在了定居点里。</BN_Thief_Killed>
+	<BN_Thief_Empty>被识破的小偷两手空空地离开了。</BN_Thief_Empty>
+	<BN_OrphanParent_Name>落魄父亲的恳求</BN_OrphanParent_Name>
+	<BN_OrphanParent_Text>一位落魄的父亲联系了你，说债主要带走他的孩子来抵债。他恳求你把孩子们收留进你的定居点，因为在其他大派系里，孩子们一定会被找到，而且很可能在下一次袭击中丧命。
+
+要收留这些孩子，请点击这则消息并选择想要的选项。不知为何，这位父亲没有说有几个孩子，也没说他们是什么样的孩子。</BN_OrphanParent_Text>
+	<BN_Orphans_Accept>收留孩子们。</BN_Orphans_Accept>
+	<BN_Orphans_Refuse>拒绝。</BN_Orphans_Refuse>
+	<BN_Orphans_Postpone>稍后再决定。</BN_Orphans_Postpone>
+	<BN_Orphans_Refused>你拒绝了。那些孩子后来怎么了，你永远不会知道。</BN_Orphans_Refused>
+	<BN_Orphans_Arrived>孩子们抵达了，共 {COUNT} 名。他们现在是你定居点的一员了。</BN_Orphans_Arrived>
+	<BN_Active_Orphans>父亲的恳求</BN_Active_Orphans>
+	<BN_Active_Orphans_Desc>在信件消失前点击它来回应。</BN_Active_Orphans_Desc>
+	<BN_Savages_Name>野蛮部落</BN_Savages_Name>
+	<BN_Savages_Text>你在地平在线发现一支野蛮部落，他们决定在你的殖民地附近定居。他们看起来不构成任何威胁。</BN_Savages_Text>
+	<BN_StolenCaravan_Name>可疑的贸易商队</BN_StolenCaravan_Name>
+	<BN_StolenCaravan_Arrival>一支可疑的贸易商队来到了你的殖民地。商人的货色多得异常，但最奇怪的是价格：所有东西都以市价的一半出售。对于任何试探性的问题，商人都客气地避而不答。
+
+{0}怀疑这些货物是赃物。唯一的问题是：被偷的是你的敌人，还是你的朋友？</BN_StolenCaravan_Arrival>
+	<BN_StolenCaravan_UnknownWitness>其中一名殖民者</BN_StolenCaravan_UnknownWitness>
+	<BN_StolenCaravan_GoodwillReason_Attacked>协助揭发赃物商队</BN_StolenCaravan_GoodwillReason_Attacked>
+	<BN_StolenCaravan_GoodwillReason_Bought>向可疑商队购买赃物</BN_StolenCaravan_GoodwillReason_Bought>
+	<BN_StolenCaravan_OutcomeAttacked>{0}派系的代表联系了你。你攻击的那支商队确实载着从他们某个定居点偷来的货物。该派系感谢你揭发了这些小偷，你们的关系改善了。</BN_StolenCaravan_OutcomeAttacked>
+	<BN_StolenCaravan_OutcomeBought>{0}派系的代表愤怒地联系了你。他们得知你向一支商队买了货，而那些货物是从他们某个定居点偷来的。你与该派系的关系恶化了。</BN_StolenCaravan_OutcomeBought>
+	<BN_StolenCaravan_OutcomeIgnored>先前造访你殖民地的那支贸易商队确实是一群小偷。你没向他们买任何东西，所以{0}派系对你没有任何不满。</BN_StolenCaravan_OutcomeIgnored>
+	<BN_StolenCaravan_Raid>怒不可遏的{0}派系派出一支 {1} 人的惩戒部队前往你的殖民地，要惩罚你购买赃物。</BN_StolenCaravan_Raid>
+	<BN_Active_StolenCaravan>可疑的商队</BN_Active_StolenCaravan>
+	<BN_Active_StolenCaravan_Desc>这支商队的货物便宜得可疑。</BN_Active_StolenCaravan_Desc>
 </LanguageData>
