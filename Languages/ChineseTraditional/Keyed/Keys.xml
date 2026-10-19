@@ -653,4 +653,18 @@
 	<BN_StolenCaravan_Raid>怒不可遏的{0}派系派出一支 {1} 人的懲戒部隊前往你的殖民地，要懲罰你購買贓物。</BN_StolenCaravan_Raid>
 	<BN_Active_StolenCaravan>可疑的旅隊</BN_Active_StolenCaravan>
 	<BN_Active_StolenCaravan_Desc>這支旅隊的貨物便宜得可疑。</BN_Active_StolenCaravan_Desc>
+
+	<BN_Holy_Enter>進入{0}</BN_Holy_Enter>
+	<BN_Holy_Report>前往{0}</BN_Holy_Report>
+	<BN_Holy_EnterGizmo>進入聖地</BN_Holy_EnterGizmo>
+	<BN_Holy_EnterGizmoDesc>站在你們理念的一方，加入聖地之戰。</BN_Holy_EnterGizmoDesc>
+
+	<BN_Space_Label>突發新聞：太空</BN_Space_Label>
+	<BN_Space_ReminderFreeze>你先前選擇在太空中停用事件。如果想重新啟用，請點擊這則訊息並選擇想要的選項。你也可以關閉這則提醒。</BN_Space_ReminderFreeze>
+	<BN_Space_ReminderKeep>你先前選擇在太空中保留事件。如果想更改，請點擊這則訊息並選擇想要的選項。你也可以關閉這則提醒。</BN_Space_ReminderKeep>
+	<BN_Space_OptKeepFreeze>繼續停用事件。</BN_Space_OptKeepFreeze>
+	<BN_Space_OptEnable>啟用事件。</BN_Space_OptEnable>
+	<BN_Space_OptFreeze>停用事件。</BN_Space_OptFreeze>
+	<BN_Space_OptKeepOn>繼續保留事件。</BN_Space_OptKeepOn>
+	<BN_Space_OptMsgOff>關閉這則提醒。</BN_Space_OptMsgOff>
 </LanguageData>
