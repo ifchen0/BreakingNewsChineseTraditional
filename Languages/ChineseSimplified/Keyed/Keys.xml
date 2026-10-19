@@ -83,8 +83,8 @@
 
 	<BN_SolarPulses_Name>太阳磁脉冲</BN_SolarPulses_Name>
 	<BN_SolarPulses_Intro>你们星系的太阳开始发出奇怪的异常磁脉冲。</BN_SolarPulses_Intro>
-	<BN_SolarPulses_Benign>不知为何，这些脉冲竟然是有益的。发电量增加了 25%！</BN_SolarPulses_Benign>
-	<BN_SolarPulses_Harmful>虽然比不上太阳闪焰，但你的电子设备还是受到了影响。发电量减少了 25%。</BN_SolarPulses_Harmful>
+	<BN_SolarPulses_Benign>不知为何，这些脉冲竟然是有益的。发电量增加了25%！</BN_SolarPulses_Benign>
+	<BN_SolarPulses_Harmful>虽然比不上太阳闪焰，但你的电子设备还是受到了影响。发电量减少了25%。</BN_SolarPulses_Harmful>
 
 	<BN_JokeBats_Name>【玩笑】蝙蝠病原体</BN_JokeBats_Name>
 	<BN_JokeBats_Text>！！！突发新闻！！！
@@ -107,7 +107,7 @@
 
 	<BN_UI_Header>近期新闻的作用中效果</BN_UI_Header>
 	<BN_UI_None>目前没有作用中的效果。</BN_UI_None>
-	<BN_UI_Period>从 {0} 到 {1}</BN_UI_Period>
+	<BN_UI_Period>从{0}到{1}</BN_UI_Period>
 	<BN_UI_Remaining>剩余：{0}</BN_UI_Remaining>
 
 	<BN_Active_Travelers>旅人涌入</BN_Active_Travelers>
@@ -129,11 +129,11 @@
 	<BN_Active_DrugSale>供过于求：{0}</BN_Active_DrugSale>
 	<BN_Active_DrugSale_Desc>这种毒品的价格降为三分之一。</BN_Active_DrugSale_Desc>
 	<BN_Active_TvPremiere>剧集首播</BN_Active_TvPremiere>
-	<BN_Active_TvPremiere_Desc>看电视可获得 +5 心情。</BN_Active_TvPremiere_Desc>
+	<BN_Active_TvPremiere_Desc>看电视可获得 +5心情。</BN_Active_TvPremiere_Desc>
 	<BN_Active_PowerUp>发电量激增</BN_Active_PowerUp>
-	<BN_Active_PowerUp_Desc>所有发电机的发电量增加 25%。</BN_Active_PowerUp_Desc>
+	<BN_Active_PowerUp_Desc>所有发电机的发电量增加25%。</BN_Active_PowerUp_Desc>
 	<BN_Active_PowerDown>发电量下降</BN_Active_PowerDown>
-	<BN_Active_PowerDown_Desc>所有发电机的发电量减少 25%。</BN_Active_PowerDown_Desc>
+	<BN_Active_PowerDown_Desc>所有发电机的发电量减少25%。</BN_Active_PowerDown_Desc>
 	<BN_Active_Refugee>难民潮</BN_Active_Refugee>
 	<BN_Active_Refugee_Desc>流浪者加入与运输舱坠落的几率加倍。</BN_Active_Refugee_Desc>
 	<BN_Active_RaidHeat>魔鬼素戒断</BN_Active_RaidHeat>
@@ -203,7 +203,7 @@
 	<BN_Active_MeteorPending>流星群接近中</BN_Active_MeteorPending>
 	<BN_Active_MeteorPending_Desc>倒数结束时，流星群就会抵达星球。</BN_Active_MeteorPending_Desc>
 	<BN_Active_Starfall>流星雨</BN_Active_Starfall>
-	<BN_Active_Starfall_Desc>待在户外的殖民者欣赏天空，获得 +5 心情。</BN_Active_Starfall_Desc>
+	<BN_Active_Starfall_Desc>待在户外的殖民者欣赏天空，获得 +5心情。</BN_Active_Starfall_Desc>
 	<BN_Active_MeteorShower>陨石雨</BN_Active_MeteorShower>
 	<BN_Active_MeteorShower_Desc>陨石随机落在你领地的各处。</BN_Active_MeteorShower_Desc>
 
@@ -267,7 +267,7 @@
 	<BN_Children_Postpone>稍后再决定</BN_Children_Postpone>
 	<BN_Children_Refused>你拒绝了孩子们。他们回到了荒野之中。</BN_Children_Refused>
 	<BN_Children_Accepted>孩子们（{0}人）留在了你的定居点。请给他们食物和住处。</BN_Children_Accepted>
-	<BN_Children_Shuttle>孩子们的父母派了一架穿梭机来接他们。有{0}人决定自行离开，其余{1}人正在等待登机。在 2 天内把剩下的孩子全部送上穿梭机，就能获得丰厚的报酬。</BN_Children_Shuttle>
+	<BN_Children_Shuttle>孩子们的父母派了一架穿梭机来接他们。有{0}人决定自行离开，其余{1}人正在等待登机。在2天内把剩下的孩子全部送上穿梭机，就能获得丰厚的报酬。</BN_Children_Shuttle>
 	<BN_Children_AllLeft>孩子们回到了父母和师长身边。</BN_Children_AllLeft>
 	<BN_Children_ShuttleOk>穿梭机载着所有孩子出发了。他们的父母承诺会在一天内给你报酬。</BN_Children_ShuttleOk>
 	<BN_Children_ShuttleFail>穿梭机没等所有孩子上机就出发了。不会有任何报酬。</BN_Children_ShuttleFail>
@@ -320,7 +320,7 @@
 	<BN_Settings_RequiresDlc>需要：{0}</BN_Settings_RequiresDlc>
 
 	<BN_Update_Label>突发新闻：模组更新</BN_Update_Label>
-	<BN_Update_Header>{0} 突发新闻模组已更新。</BN_Update_Header>
+	<BN_Update_Header>{0}突发新闻模组已更新。</BN_Update_Header>
 	<BN_Update_Added>添加内容如下：</BN_Update_Added>
 	<BN_Update_1_update>修正并重新平衡了数个事件。</BN_Update_1_update>
 	<BN_Update_2_update>添加了新事件，包括“血猎”和“野蛮部落”。</BN_Update_2_update>
@@ -361,15 +361,15 @@
 	<BN_Earthquake_End>地震平息了。大家都重新站了起来。</BN_Earthquake_End>
 
 	<BN_CasinoShip_Name>赌场飞船</BN_CasinoShip_Name>
-	<BN_CasinoShip_Text>星球轨道上侦测到一艘不明太空船。稍微观察它的外观后，从那些数不清的闪亮招牌就能看出，这是一艘巡回赌场。短暂联系后得知，他们无意让边缘世界的乌合之众登船，但还是带着一个提议来到这里：任何派系，包括你们，都可以向他们购买惊喜运输舱。最多可以买 3 个，但你得明白，里面几乎什么都可能出现。它可能让你的定居点发大财，也可能要了你的命。
+	<BN_CasinoShip_Text>星球轨道上侦测到一艘不明太空船。稍微观察它的外观后，从那些数不清的闪亮招牌就能看出，这是一艘巡回赌场。短暂联系后得知，他们无意让边缘世界的乌合之众登船，但还是带着一个提议来到这里：任何派系，包括你们，都可以向他们购买惊喜运输舱。最多可以买3个，但你得明白，里面几乎什么都可能出现。它可能让你的定居点发大财，也可能要了你的命。
 
 要购买惊喜运输舱，请使用通讯台。</BN_CasinoShip_Text>
 	<BN_Casino_ShipName>巡回赌场</BN_Casino_ShipName>
 	<BN_Casino_Prompt>决定要买一个运输舱了吗？希望你明白其中的风险。</BN_Casino_Prompt>
-	<BN_Casino_Buy>购买运输舱。（{0} 白银）</BN_Casino_Buy>
+	<BN_Casino_Buy>购买运输舱。（{0}白银）</BN_Casino_Buy>
 	<BN_Casino_Cancel>结束通信。</BN_Casino_Cancel>
 	<BN_Casino_LimitReached>你已经买到运输舱的数量上限了。</BN_Casino_LimitReached>
-	<BN_Casino_NoSilver>交易信标附近的白银不足（需要 {0}）。</BN_Casino_NoSilver>
+	<BN_Casino_NoSilver>交易信标附近的白银不足（需要{0}）。</BN_Casino_NoSilver>
 
 	<BN_Casino_O1>买下运输舱后，你在定居点上空看到了它。奇怪的是，它太早开始减速了。过了一会儿，运输舱直接在半空中爆炸，在你的定居点上空释放出某种云雾。</BN_Casino_O1>
 	<BN_Casino_PlagueDone>后来你才发现，你的殖民者在那之后染上了某种东西：{0}。</BN_Casino_PlagueDone>
@@ -379,7 +379,7 @@
 	<BN_Casino_O5>运输舱上满是抓痕。有个讨厌的东西降落在你的殖民地附近，也就是{0}。</BN_Casino_O5>
 	<BN_Casino_O6>知识就是力量！你的“奖品”是{0}。</BN_Casino_O6>
 	<BN_Casino_O7>我们有座城市要烧……运输舱里装着一组植入物：{0}。</BN_Casino_O7>
-	<BN_Casino_O8>看来你抽到了九张霉运牌。赌场船员回报，运输舱里装着不稳定的炸药。为了尽量让顾客活下来，他们向你发出了警告：你有 3 小时可以把最值钱的东西藏好。之后，来袭的运输舱会把你定居点的一大片区域炸飞。祝你好运！</BN_Casino_O8>
+	<BN_Casino_O8>看来你抽到了九张霉运牌。赌场船员回报，运输舱里装着不稳定的炸药。为了尽量让顾客活下来，他们向你发出了警告：你有3小时可以把最值钱的东西藏好。之后，来袭的运输舱会把你定居点的一大片区域炸飞。祝你好运！</BN_Casino_O8>
 	<BN_Casino_BombMsg>一个装满炸药的运输舱正坠向你的定居点！</BN_Casino_BombMsg>
 	<BN_Casino_O9>你的殖民者甚至没注意到，定居点附近出现了一个上锁的小运输舱，里面有东西在闪烁。打开后才发现里面是一个信标。这究竟代表什么还不清楚，但信号相当强，你显然该准备迎接访客了。</BN_Casino_O9>
 	<BN_Casino_Fail>运输舱无法送达。赌场已退还你的款项。</BN_Casino_Fail>
@@ -393,11 +393,11 @@
 
 	<BN_ResortShip_Name>度假飞船</BN_ResortShip_Name>
 	<BN_Resort_ShipName>度假邮轮“极光号”</BN_Resort_ShipName>
-	<BN_Resort_Arrived>一艘度假太空船进入了你们星球的轨道。水疗、电影院、酒吧、妓院——各种打发闲暇时间的方式应有尽有！只要支付 7,500 白银，就会派一架穿梭机来接人，你可以送任何殖民者去度假一周。请通过通讯台联系这艘飞船。</BN_Resort_Arrived>
+	<BN_Resort_Arrived>一艘度假太空船进入了你们星球的轨道。水疗、电影院、酒吧、妓院——各种打发闲暇时间的方式应有尽有！只要支付7,500白银，就会派一架穿梭机来接人，你可以送任何殖民者去度假一周。请通过通讯台联系这艘飞船。</BN_Resort_Arrived>
 	<BN_Resort_Prompt>决定好好休息一下了吗？好主意！希望你们不会带什么病回去……</BN_Resort_Prompt>
-	<BN_Resort_Yes>好。（支付 {0} 白银）</BN_Resort_Yes>
+	<BN_Resort_Yes>好。（支付{0}白银）</BN_Resort_Yes>
 	<BN_Resort_No>我们改变主意了。</BN_Resort_No>
-	<BN_Resort_NoSilver>白银不足。需要 {0}。</BN_Resort_NoSilver>
+	<BN_Resort_NoSilver>白银不足。需要{0}。</BN_Resort_NoSilver>
 	<BN_Resort_AlreadyUsed>我们已经送过一批人去度假了。</BN_Resort_AlreadyUsed>
 	<BN_Resort_ShuttleLabel>度假穿梭机抵达</BN_Resort_ShuttleLabel>
 	<BN_Resort_ShuttleText>度假穿梭机降落在你的定居点附近。把殖民者送上穿梭机并发射，就能让他们去度假一周。</BN_Resort_ShuttleText>
@@ -409,7 +409,7 @@
 	<BN_ResortVacation.stages.0.description>我在度假飞船上好好休息了一番！天啊，真希望能再去一次。</BN_ResortVacation.stages.0.description>
 
 	<BN_HungerGames_Name>饥饿游戏</BN_HungerGames_Name>
-	<BN_HungerGames_Intro>{FACTION_name}宣布举办一场至死方休的国际饥饿游戏。一如往常，最后只会有一名胜者。你获准参加。致胜的关键技能是近战和射击。奖金是 20,000 白银。就算拥有传奇等级的技能也不保证能获胜。请通过通讯台联系飞船，派出一名殖民者。</BN_HungerGames_Intro>
+	<BN_HungerGames_Intro>{FACTION_name}宣布举办一场至死方休的国际饥饿游戏。一如往常，最后只会有一名胜者。你获准参加。致胜的关键技能是近战和射击。奖金是20,000白银。就算拥有传奇等级的技能也不保证能获胜。请通过通讯台联系飞船，派出一名殖民者。</BN_HungerGames_Intro>
 	<BN_HungerGames_ShipName>饥饿游戏飞船</BN_HungerGames_ShipName>
 	<BN_HungerGames_Prompt>你想派你的斗士去参加饥饿游戏吗？要知道，对方可能回不来。希望你们不会带什么病过来……</BN_HungerGames_Prompt>
 	<BN_HungerGames_SendOption>派出一名殖民者</BN_HungerGames_SendOption>
@@ -419,7 +419,7 @@
 	<BN_HungerGames_DepartLabel>殖民者已出发</BN_HungerGames_DepartLabel>
 	<BN_HungerGames_DepartText>{PAWN_nameFull}已出发前往饥饿游戏。如果能活下来，一周后就会回来。</BN_HungerGames_DepartText>
 	<BN_HungerGames_WinLabel>饥饿游戏获胜</BN_HungerGames_WinLabel>
-	<BN_HungerGames_WinText>{PAWN_nameFull}赢得了饥饿游戏，带着 20,000 白银的奖金回来了！</BN_HungerGames_WinText>
+	<BN_HungerGames_WinText>{PAWN_nameFull}赢得了饥饿游戏，带着20,000白银的奖金回来了！</BN_HungerGames_WinText>
 	<BN_HungerGames_LoseLabel>死于饥饿游戏</BN_HungerGames_LoseLabel>
 	<BN_HungerGames_LoseText>{PAWN_nameFull}在饥饿游戏中丧命。遗体已装在运输舱里送回给你。</BN_HungerGames_LoseText>
 
@@ -429,19 +429,19 @@
 	<BN_Mercenary_ShipName>佣兵巡洋舰“血契号”</BN_Mercenary_ShipName>
 	<BN_Mercenary_Intro>轨道上侦测到一艘巨大的太空船，不久后它表明自己是一家佣兵公司。他们来到这个星系的确切目的不明，但传闻他们是来这颗星球执行任务的。在他们停留期间，只要支付象征性的费用，他们愿意为任何定居点提供暂时的保护。请通过通讯台联系他们。</BN_Mercenary_Intro>
 	<BN_Mercenary_Prompt>决定购买我们的保护了吗？</BN_Mercenary_Prompt>
-	<BN_Mercenary_BuyProtection>好。（支付 {0} 白银，启用 14 天的袭击防护）</BN_Mercenary_BuyProtection>
+	<BN_Mercenary_BuyProtection>好。（支付{0}白银，启用14天的袭击防护）</BN_Mercenary_BuyProtection>
 	<BN_Mercenary_ProtectionSold>我们已经在这颗星球上卖过保护了。</BN_Mercenary_ProtectionSold>
 	<BN_Mercenary_NotYet>还不用。</BN_Mercenary_NotYet>
 	<BN_Mercenary_AskStrike>我们可以向你们购买一发能量光束砲击吗？</BN_Mercenary_AskStrike>
 	<BN_Mercenary_StrikePrompt>嗯……可以，但风险自负。开砲的是新兵，很可能会打偏。</BN_Mercenary_StrikePrompt>
 	<BN_Mercenary_OtherTargetAnswer>不行。他们可能是我们的客户。</BN_Mercenary_OtherTargetAnswer>
-	<BN_Mercenary_BuyBasicStrike>购买能量砲击。（{0} 白银）</BN_Mercenary_BuyBasicStrike>
-	<BN_Mercenary_BuyPremiumStrike>加价购买精准射击。（{0} 白银）</BN_Mercenary_BuyPremiumStrike>
+	<BN_Mercenary_BuyBasicStrike>购买能量砲击。（{0}白银）</BN_Mercenary_BuyBasicStrike>
+	<BN_Mercenary_BuyPremiumStrike>加价购买精准射击。（{0}白银）</BN_Mercenary_BuyPremiumStrike>
 	<BN_Mercenary_Cancel>我们改变主意了。</BN_Mercenary_Cancel>
 	<BN_Mercenary_AskOtherTarget>你们能砲击别人的定居点吗？</BN_Mercenary_AskOtherTarget>
-	<BN_Mercenary_NoSilver>白银不足。需要 {0}。</BN_Mercenary_NoSilver>
+	<BN_Mercenary_NoSilver>白银不足。需要{0}。</BN_Mercenary_NoSilver>
 	<BN_Mercenary_ProtectionLabel>佣兵保护已启用</BN_Mercenary_ProtectionLabel>
-	<BN_Mercenary_ProtectionText>佣兵将在 {0} 天内保护你的定居点。任何针对你的敌对袭击，都会在抵达边境前就被摧毁。</BN_Mercenary_ProtectionText>
+	<BN_Mercenary_ProtectionText>佣兵将在{0}天内保护你的定居点。任何针对你的敌对袭击，都会在抵达边境前就被摧毁。</BN_Mercenary_ProtectionText>
 	<BN_Mercenary_RaidBlockedLabel>佣兵击退了一次袭击</BN_Mercenary_RaidBlockedLabel>
 	<BN_Mercenary_RaidBlockedText>佣兵巡洋舰的轨道砲在来袭部队接近你的边境之前，就把他们摧毁了。</BN_Mercenary_RaidBlockedText>
 	<BN_Mercenary_StrikeLabel>轨道砲击</BN_Mercenary_StrikeLabel>
@@ -454,24 +454,24 @@
 	<BN_AllyDefenseQuest_Name>防守盟友定居点</BN_AllyDefenseQuest_Name>
 	<BN_AllyAttack_Label>联合进攻</BN_AllyAttack_Label>
 	<BN_AllyAttack_WinLabel>联合进攻成功</BN_AllyAttack_WinLabel>
-	<BN_AllyAttack_WinText>{ALLY_name}乘胜追击，又攻下了 {COUNT} 座敌方定居点。</BN_AllyAttack_WinText>
+	<BN_AllyAttack_WinText>{ALLY_name}乘胜追击，又攻下了{COUNT}座敌方定居点。</BN_AllyAttack_WinText>
 	<BN_AllyAttack_TimeoutLabel>盟友独自进攻</BN_AllyAttack_TimeoutLabel>
-	<BN_AllyAttack_TimeoutText>在你犹豫的时候，{ALLY_name}独自发动进攻，攻下了 1 座敌方定居点。</BN_AllyAttack_TimeoutText>
+	<BN_AllyAttack_TimeoutText>在你犹豫的时候，{ALLY_name}独自发动进攻，攻下了1座敌方定居点。</BN_AllyAttack_TimeoutText>
 	<BN_AllyAttack_TimeoutFail>在你犹豫的时候，{ALLY_name}独自发动进攻，但失败了。什么都没攻下。</BN_AllyAttack_TimeoutFail>
 	<BN_AllyDefense_Label>防守盟友</BN_AllyDefense_Label>
 	<BN_AllyDefense_WinLabel>防守成功</BN_AllyDefense_WinLabel>
-	<BN_AllyDefense_WinText>在你的帮助下，{ALLY_name}守住了他们的定居点。他们用运输舱送来 2,000 白银表达谢意。</BN_AllyDefense_WinText>
+	<BN_AllyDefense_WinText>在你的帮助下，{ALLY_name}守住了他们的定居点。他们用运输舱送来2,000白银表达谢意。</BN_AllyDefense_WinText>
 	<BN_AllyDefense_LoseLabel>盟友失去了一座定居点</BN_AllyDefense_LoseLabel>
 	<BN_AllyDefense_LoseText>在你犹豫的时候，{ALLY_name}失去了他们的一座定居点。</BN_AllyDefense_LoseText>
 
-	<BN_AllyAttack_Intro>你的盟友{ALLY_name}对敌人的定居点发动了攻势，需要你的协助。一支突击小队提议与你联合进攻{SITE}。除了营地里的战利品，你还会获得 2,000 白银作为回报。小队会等你 3 天，之后就会自己发动进攻。派一支远行队前往标记的定居点，盟军小队就会加入你的突击。</BN_AllyAttack_Intro>
-	<BN_AllyDefense_Intro>你的盟友{ALLY_name}遭到{ENEMY_name}攻击。一支防守小队请求你协助防守{SITE}，他们会等你 3 天。派一支远行队前往标记的定居点，盟军守备队就会支持你的防守。</BN_AllyDefense_Intro>
+	<BN_AllyAttack_Intro>你的盟友{ALLY_name}对敌人的定居点发动了攻势，需要你的协助。一支突击小队提议与你联合进攻{SITE}。除了营地里的战利品，你还会获得2,000白银作为回报。小队会等你3天，之后就会自己发动进攻。派一支远行队前往标记的定居点，盟军小队就会加入你的突击。</BN_AllyAttack_Intro>
+	<BN_AllyDefense_Intro>你的盟友{ALLY_name}遭到{ENEMY_name}攻击。一支防守小队请求你协助防守{SITE}，他们会等你3天。派一支远行队前往标记的定居点，盟军守备队就会支持你的防守。</BN_AllyDefense_Intro>
 
 	<BN_AllyDefense_ProtectButton>防守定居点</BN_AllyDefense_ProtectButton>
 	<BN_AllyDefense_ProtectButtonDesc>前往防守盟友的定居点，抵御敌人。</BN_AllyDefense_ProtectButtonDesc>
 
 	<BN_AllyAttack_RewardLabel>盟友的报酬</BN_AllyAttack_RewardLabel>
-	<BN_AllyAttack_Reward>你的盟友信守承诺：装着 {0} 白银报酬的运输舱降落在你的领地上。</BN_AllyAttack_Reward>
+	<BN_AllyAttack_Reward>你的盟友信守承诺：装着{0}白银报酬的运输舱降落在你的领地上。</BN_AllyAttack_Reward>
 
 	<BN_Update_2_Events>添加了一批新事件，大多与太空船有关。可以在模组设置中查看新事件。</BN_Update_2_Events>
 
@@ -504,7 +504,7 @@
 	<BN_Voice_RevealBinge>代价揭晓：永远无法满足的饥饿。你所有的殖民者都扑向了食物。</BN_Voice_RevealBinge>
 	<BN_Voice_Betrayal>代价揭晓：暗影不再为你效命。他们已经倒戈，正朝你的殖民地而来。</BN_Voice_Betrayal>
 	<BN_Voice_Alone>代价揭晓：“我完全是孤单一人……”这个念头永远不会消失。</BN_Voice_Alone>
-	<BN_Voice_ShadowName>暗影 {0}</BN_Voice_ShadowName>
+	<BN_Voice_ShadowName>暗影{0}</BN_Voice_ShadowName>
 
 	<BN_Active_Voice>营火旁的低语</BN_Active_Voice>
 	<BN_Active_Voice_Desc>前往营火进行交易。</BN_Active_Voice_Desc>
@@ -515,7 +515,7 @@
 
 	<BN_RebelAllies_Name>叛变的盟友小队</BN_RebelAllies_Name>
 	<BN_RebelAllies_Text>你发现盟友派系{FACTION_name}的一支小队出现在你的领地边缘。本以为会看到友善的面孔，迎来的却只有一抹假笑。不管这是怎么回事，这支小队显然怀有敌意。</BN_RebelAllies_Text>
-	<BN_Rebels_Reward>你收到一则来自{FACTION_name}的消息，也就是先前派小队攻击你的那个派系。对方代表表示，派系内部目前正处于动荡，但情况正逐渐好转。他们送来了 {SILVER} 白银作为补偿。</BN_Rebels_Reward>
+	<BN_Rebels_Reward>你收到一则来自{FACTION_name}的消息，也就是先前派小队攻击你的那个派系。对方代表表示，派系内部目前正处于动荡，但情况正逐渐好转。他们送来了{SILVER}白银作为补偿。</BN_Rebels_Reward>
 	<BN_Active_RebelCompensation>盟友的补偿</BN_Active_RebelCompensation>
 	<BN_Active_RebelCompensation_Desc>你的盟友很快就会送来白银以示歉意。</BN_Active_RebelCompensation_Desc>
 
@@ -539,7 +539,7 @@
 
 别忘了这是时装秀。如果派去的殖民者穿着护甲，就不能参赛。
 
-要参加的话，请派一名殖民者前往指定的定居点。获胜的话，他们会带回 5000 白银的奖金。
+要参加的话，请派一名殖民者前往指定的定居点。获胜的话，他们会带回5000白银的奖金。
 
 提示：华丽和染色的衣物最受青睐。
 	</BN_FashionShow_Text>
@@ -553,10 +553,10 @@
 	<BN_Fashion_PickText>要派谁走上伸展台？</BN_Fashion_PickText>
 	<BN_Fashion_Armor>不得穿着护甲：{0}</BN_Fashion_Armor>
 	<BN_Fashion_Cancel>算了。</BN_Fashion_Cancel>
-	<BN_Fashion_R1>{NAME}的造型轰动全场，拿下第一名！奖金：{SILVER} 白银。表现 {SCORE}%，门槛 {NEED}%。</BN_Fashion_R1>
-	<BN_Fashion_R2>{NAME}拿下第二名。奖金：{SILVER} 白银。表现 {SCORE}%，门槛 {NEED}%。</BN_Fashion_R2>
-	<BN_Fashion_R3>{NAME}拿下第三名。奖金：{SILVER} 白银。表现 {SCORE}%，门槛 {NEED}%。</BN_Fashion_R3>
-	<BN_Fashion_R0>{NAME}没能挤进前三名。表现 {SCORE}%，门槛 {NEED}%。评审不为所动。</BN_Fashion_R0>
+	<BN_Fashion_R1>{NAME}的造型轰动全场，拿下第一名！奖金：{SILVER}白银。表现{SCORE}%，门槛{NEED}%。</BN_Fashion_R1>
+	<BN_Fashion_R2>{NAME}拿下第二名。奖金：{SILVER}白银。表现{SCORE}%，门槛{NEED}%。</BN_Fashion_R2>
+	<BN_Fashion_R3>{NAME}拿下第三名。奖金：{SILVER}白银。表现{SCORE}%，门槛{NEED}%。</BN_Fashion_R3>
+	<BN_Fashion_R0>{NAME}没能挤进前三名。表现{SCORE}%，门槛{NEED}%。评审不为所动。</BN_Fashion_R0>
 	<BN_Active_FashionShow>时装秀</BN_Active_FashionShow>
 	<BN_Active_FashionShow_Desc>派一名没穿护甲的殖民者前往最近的中立派系定居点。</BN_Active_FashionShow_Desc>
 
@@ -569,9 +569,9 @@
 	<BN_Settings_DisableAllEvents_Tip>阻止突发新闻事件发生，并隐藏突发新闻分页。</BN_Settings_DisableAllEvents_Tip>
 
 	<BN_Settings_Protect>早期定居点保护</BN_Settings_Protect>
-	<BN_Settings_Protect_Tip>殖民地财富低于 100,000 时，部分危险事件会被停用。达到这个门槛后，保护会永久关闭。</BN_Settings_Protect_Tip>
+	<BN_Settings_Protect_Tip>殖民地财富低于100,000时，部分危险事件会被停用。达到这个门槛后，保护会永久关闭。</BN_Settings_Protect_Tip>
 	<BN_Protect_Low>你目前的财富水平太低，不适合部分事件，因此这些事件已被停用。如果想关闭早期定居点保护机制，可以在模组设置中关闭。</BN_Protect_Low>
-	<BN_Protect_Off>你的财富已超过 100,000。早期定居点保护机制已关闭，模组的所有事件现在都可能发生。</BN_Protect_Off>
+	<BN_Protect_Off>你的财富已超过100,000。早期定居点保护机制已关闭，模组的所有事件现在都可能发生。</BN_Protect_Off>
 	<BN_BloodHunt_Name>血猎</BN_BloodHunt_Name>
 	<BN_BloodHunt_Text>这颗边缘世界上守护“假面”的赫血种组织与你取得了联系。你的赫血种{HEMOPHAGE_nameFull}的“血统来源”正受到强烈质疑，而且还被控多次违反假面守则、记录在案。因此，他们对其发布了血猎令。
 
@@ -602,18 +602,18 @@
 	<BN_Active_HolyLand_Desc>在标记消失前派出战士支持你的文化。</BN_Active_HolyLand_Desc>
 	<BN_Lottery_Name>星球乐透</BN_Lottery_Name>
 	<BN_Lottery_ShipName>星球乐透</BN_Lottery_ShipName>
-	<BN_Lottery_Text>派系{FACTION_name}决定举办传统的星球乐透。只要使用通讯台并支付 100 白银，就有机会赢得 100,000 白银！中奖几率很低，而且一旦中奖，多半马上就会有人来袭击你，但这个风险值得一冒。
+	<BN_Lottery_Text>派系{FACTION_name}决定举办传统的星球乐透。只要使用通讯台并支付100白银，就有机会赢得100,000白银！中奖几率很低，而且一旦中奖，多半马上就会有人来袭击你，但这个风险值得一冒。
 
 顺带一提，你的每名殖民者都可以参加乐透，稍微提高中奖几率。</BN_Lottery_Text>
-	<BN_Lottery_Prompt>一张彩票 {0} 白银，头奖 {1} 白银。买一张的中奖几率：{2}%。每多一名殖民者参加，几率增加 0.5%。距离开奖：{3}。</BN_Lottery_Prompt>
-	<BN_Lottery_Buy1>买一张彩票（{0} 白银）。</BN_Lottery_Buy1>
-	<BN_Lottery_BuyAll>为每名殖民者各买一张（{0} 张，{1} 白银）。几率：{2}%。</BN_Lottery_BuyAll>
+	<BN_Lottery_Prompt>一张彩票{0}白银，头奖{1}白银。买一张的中奖几率：{2}%。每多一名殖民者参加，几率增加0.5%。距离开奖：{3}。</BN_Lottery_Prompt>
+	<BN_Lottery_Buy1>买一张彩票（{0}白银）。</BN_Lottery_Buy1>
+	<BN_Lottery_BuyAll>为每名殖民者各买一张（{0}张，{1}白银）。几率：{2}%。</BN_Lottery_BuyAll>
 	<BN_Lottery_Cancel>挂断。</BN_Lottery_Cancel>
-	<BN_Lottery_NoSilver>交易信标附近的白银不足（需要 {0}）。</BN_Lottery_NoSilver>
+	<BN_Lottery_NoSilver>交易信标附近的白银不足（需要{0}）。</BN_Lottery_NoSilver>
 	<BN_Lottery_Accepted>已购买彩票。结果会在乐透结束时公布。</BN_Lottery_Accepted>
 	<BN_Lottery_Already>你已经参加了这次乐透。距离开奖：{0}。</BN_Lottery_Already>
 	<BN_Lottery_Ended>乐透已经结束了。</BN_Lottery_Ended>
-	<BN_Lottery_Win>你中了星球乐透！100,000 白银的奖金正装在运输舱里落向你的定居点。不过这种消息恐怕不会没人注意到……</BN_Lottery_Win>
+	<BN_Lottery_Win>你中了星球乐透！100,000白银的奖金正装在运输舱里落向你的定居点。不过这种消息恐怕不会没人注意到……</BN_Lottery_Win>
 	<BN_Lottery_Lose>乐透结束了。很遗憾，你的彩票没有中奖。</BN_Lottery_Lose>
 	<BN_Lottery_NotEntered>星球乐透结束了。你没有参加。</BN_Lottery_NotEntered>
 	<BN_Lottery_RaidText>听说你中了乐透的可不只是你的朋友。海盗正赶来抢夺你的奖金！</BN_Lottery_RaidText>
@@ -622,9 +622,9 @@
 	<BN_Active_LotteryRaid>海盗盯上了奖金</BN_Active_LotteryRaid>
 	<BN_Active_LotteryRaid_Desc>听说你中奖的海盗很快就会袭击定居点。</BN_Active_LotteryRaid_Desc>
 	<BN_NightThief_Name>夜贼</BN_NightThief_Name>
-	<BN_Thief_Report>昨晚有个小偷潜入你的定居点，偷走了 {SILVER} 白银。看来你和你的殖民者都没有察觉。下次要更警觉一点。</BN_Thief_Report>
+	<BN_Thief_Report>昨晚有个小偷潜入你的定居点，偷走了{SILVER}白银。看来你和你的殖民者都没有察觉。下次要更警觉一点。</BN_Thief_Report>
 	<BN_Thief_Revealed>小偷被识破了！他正试图逃跑。</BN_Thief_Revealed>
-	<BN_Thief_Escaped>被你识破的小偷还是带着 {SILVER} 白银逃走了。</BN_Thief_Escaped>
+	<BN_Thief_Escaped>被你识破的小偷还是带着{SILVER}白银逃走了。</BN_Thief_Escaped>
 	<BN_Thief_Killed>小偷被拦下了。赃物留在了定居点里。</BN_Thief_Killed>
 	<BN_Thief_Empty>被识破的小偷两手空空地离开了。</BN_Thief_Empty>
 	<BN_OrphanParent_Name>落魄父亲的恳求</BN_OrphanParent_Name>
@@ -635,7 +635,7 @@
 	<BN_Orphans_Refuse>拒绝。</BN_Orphans_Refuse>
 	<BN_Orphans_Postpone>稍后再决定。</BN_Orphans_Postpone>
 	<BN_Orphans_Refused>你拒绝了。那些孩子后来怎么了，你永远不会知道。</BN_Orphans_Refused>
-	<BN_Orphans_Arrived>孩子们抵达了，共 {COUNT} 名。他们现在是你定居点的一员了。</BN_Orphans_Arrived>
+	<BN_Orphans_Arrived>孩子们抵达了，共{COUNT}名。他们现在是你定居点的一员了。</BN_Orphans_Arrived>
 	<BN_Active_Orphans>父亲的恳求</BN_Active_Orphans>
 	<BN_Active_Orphans_Desc>在信件消失前点击它来回应。</BN_Active_Orphans_Desc>
 	<BN_Savages_Name>野蛮部落</BN_Savages_Name>
@@ -650,7 +650,7 @@
 	<BN_StolenCaravan_OutcomeAttacked>{0}派系的代表联系了你。你攻击的那支商队确实载着从他们某个定居点偷来的货物。该派系感谢你揭发了这些小偷，你们的关系改善了。</BN_StolenCaravan_OutcomeAttacked>
 	<BN_StolenCaravan_OutcomeBought>{0}派系的代表愤怒地联系了你。他们得知你向一支商队买了货，而那些货物是从他们某个定居点偷来的。你与该派系的关系恶化了。</BN_StolenCaravan_OutcomeBought>
 	<BN_StolenCaravan_OutcomeIgnored>先前造访你殖民地的那支贸易商队确实是一群小偷。你没向他们买任何东西，所以{0}派系对你没有任何不满。</BN_StolenCaravan_OutcomeIgnored>
-	<BN_StolenCaravan_Raid>怒不可遏的{0}派系派出一支 {1} 人的惩戒部队前往你的殖民地，要惩罚你购买赃物。</BN_StolenCaravan_Raid>
+	<BN_StolenCaravan_Raid>怒不可遏的{0}派系派出一支{1}人的惩戒部队前往你的殖民地，要惩罚你购买赃物。</BN_StolenCaravan_Raid>
 	<BN_Active_StolenCaravan>可疑的商队</BN_Active_StolenCaravan>
 	<BN_Active_StolenCaravan_Desc>这支商队的货物便宜得可疑。</BN_Active_StolenCaravan_Desc>
 
