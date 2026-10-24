@@ -667,4 +667,10 @@
 	<BN_Space_OptFreeze>停用事件。</BN_Space_OptFreeze>
 	<BN_Space_OptKeepOn>繼續保留事件。</BN_Space_OptKeepOn>
 	<BN_Space_OptMsgOff>關閉這則提醒。</BN_Space_OptMsgOff>
+	<BN_Rp_Label>突發新聞：無悔模式</BN_Rp_Label>
+	<BN_Rp_Text>先前你在這個存檔以無悔模式開始遊玩時，停用了突發新聞模組的事件。如果你突然改變主意，可以在這裡更改決定。</BN_Rp_Text>
+	<BN_Rp_OptEnable>啟用事件。</BN_Rp_OptEnable>
+	<BN_Rp_OptKeepOff>繼續停用事件。</BN_Rp_OptKeepOff>
+	<BN_Rp_OptMsgOff>關閉這則提醒。</BN_Rp_OptMsgOff>
+	<BN_Rp_EnabledMsg>突發新聞事件已重新啟用。</BN_Rp_EnabledMsg>
 </LanguageData>

@@ -667,4 +667,10 @@
 	<BN_Space_OptFreeze>停用事件。</BN_Space_OptFreeze>
 	<BN_Space_OptKeepOn>继续保留事件。</BN_Space_OptKeepOn>
 	<BN_Space_OptMsgOff>关闭这则提醒。</BN_Space_OptMsgOff>
+	<BN_Rp_Label>突发新闻：无悔模式</BN_Rp_Label>
+	<BN_Rp_Text>先前你在这个存盘以无悔模式开始游玩时，停用了突发新闻模组的事件。如果你突然改变主意，可以在这里更改决定。</BN_Rp_Text>
+	<BN_Rp_OptEnable>启用事件。</BN_Rp_OptEnable>
+	<BN_Rp_OptKeepOff>继续停用事件。</BN_Rp_OptKeepOff>
+	<BN_Rp_OptMsgOff>关闭这则提醒。</BN_Rp_OptMsgOff>
+	<BN_Rp_EnabledMsg>突发新闻事件已重新启用。</BN_Rp_EnabledMsg>
 </LanguageData>
